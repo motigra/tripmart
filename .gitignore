@@ -1,0 +1,20 @@
+node_modules/
+.DS_Store
+*.log
+dist/
+.vite/
+
+# --- Private layer: never commit -------------------------------------------
+# .private/ holds the traveller profile and per-trip research notes. It is the
+# only place personal information may live. See CLAUDE.md > Privacy contract.
+.private/
+**/.private/
+
+# Belt-and-braces: catch a profile or notes file dropped outside .private/ by mistake
+PROFILE.md
+PROFILE.MD
+profile.md
+*.private.*
+*.local.*
+.env
+.env.*

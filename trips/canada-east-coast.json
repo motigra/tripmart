@@ -1,0 +1,339 @@
+{
+  "_notes": [
+    "Non-rendered field: destination facts and seasonality findings only. The app ignores keys it does not know. Planning rationale and open questions are kept outside the repo.",
+    "CARD CAPTIONS — PRIMARY (migrated 2026-08-30): Ontario's Lake Country: Four nights, and the two bases are 90 minutes apart. | Old Quebec & Montreal: Four nights, three hours apart on the 20. | The Cabot Trail: A 298 km loop; three nights based at Ingonish.",
+    "CARD CAPTIONS — NATURE (migrated 2026-08-30): Muskoka Lakes: Cottage country empties out after Labour Day. | Algonquin Provincial Park: Colour peaks late September to mid-October. | Bay of Fundy / Hopewell Rocks: Only walkable at low tide — times posted at the gate daily. | Cape Breton Highlands National Park: The Skyline boardwalk is 8 km return, mostly flat. | Prince Edward Island North Shore: Confederation Bridge tolls on the way out, not in.",
+    "CARD CAPTIONS — CITIES (migrated 2026-08-30): Toronto: Two nights at the start; the island ferry has the best view of it. | Ottawa: Parliament Hill and the ByWard Market are a ten-minute walk apart. | Montreal: Mount Royal is a 30-minute climb from downtown, and free. | Quebec City: The old town is walkable end to end; park once. | Halifax: Peggy's Cove is 45 minutes away — go early or late for the light. | Lunenburg: Easy half-day from Halifax, often combined with Peggy's Cove.",
+    "CARD CAPTIONS — FOOD (migrated 2026-08-30): Poutine: La Banquise in Montreal does thirty versions, around the clock. | Montreal Smoked Meat: The famous delis are cash-only and queue out the door. | Beaver Tails: The ByWard Market stand in Ottawa is where the chain started. | Maple Syrup & Fudge: Graded by colour — darker means later in the season and stronger. | Halifax Donair: King of Donair on Quinpool Road claims the original, from 1973. | Fast Food & Big-City Eating: Both Chinatowns are walkable from the centre of town.",
+    "CARD CAPTIONS — THINGS TO DO (migrated 2026-08-30): Montmorency Falls: Fifteen minutes from Quebec City; there is a zipline across the gorge too. | Île d'Orléans Food Road: 67 km round the island — half a day with stops. | A Maple Sugar Shack: Autumn shacks are quieter than the spring rush; most are around Quebec City. | The Toronto Islands Ferry: Ferries from Jack Layton Terminal; last boat back is late. | Driving the Confederation Bridge: Free going over; the toll is collected when you leave the island. | Whale Boats off Cape Breton: Pleasant Bay is the main departure point — ring the day before.",
+    "SEASONALITY (verified 2026-08-30, web search): 'A Maple Sugar Shack' was cut and replaced with 'The Muskoka Cranberry Harvest'. The taffy-on-snow ritual it described needs an actual sugaring season (sap running, snow on the ground) — that's late winter/early spring, not October, so it never fit this trip's window. Johnston's Cranberry Marsh & Muskoka Lakes Farm & Winery (Bala, Muskoka) runs its cranberry harvest from about two weekends before Canadian Thanksgiving through the end of October, which covers the trip's Muskoka leg (days 4-5) on a late-September start, and also makes apple-cranberry cider on site. No Wikimedia photo of the actual Bala marsh was found, so the card image is a generic wet-harvest photo (Massachusetts) — caption describes only what it shows, not the specific farm."
+  ],
+  "destination": "Canada — Toronto to Halifax",
+  "title": "Ontario, Quebec & the Maritimes: A Canadian East Coast Road Trip",
+  "heroImage": {
+    "url": "https://live.staticflickr.com/65535/50524010807_9d2e4aa5f8_h.jpg",
+    "caption": "Algonquin Park",
+    "credit": "Flickr"
+  },
+  "ideaImage": {
+    "url": "https://www.fifty-five-plus.com/wp-content/uploads/2023/05/Peggys-CoveTourism-Nova-Scotia-Photographer-Acorn-Art-Photography-.jpg",
+    "caption": "Lighthouse in Nova Scotia"
+  },
+  "theme": {
+    "bg": "#f6f1e7",
+    "ink": "#241a15",
+    "dim": "#6d5c50",
+    "line": "rgba(36,26,21,.16)",
+    "panel": "#fdfaf4",
+    "deep": "#2a1a13",
+    "onDeep": "#f2e8da",
+    "accent": "#b3462f",
+    "mapLand": "#e9e0ce",
+    "mapLine": "rgba(36,26,21,.22)"
+  },
+  "brief": "Three weeks of easy driving through Canada's prettiest fall colours — vibrant city life in Toronto, lazy lake days in Muskoka, charming old towns in Quebec, and the wild, windswept coastlines of the Maritimes. Red and gold forests, lighthouses, red-sand beaches, and comfort food the whole way.",
+  "vibe": "Easy roads, big autumn colour",
+  "facts": {
+    "recommendedDurationDays": 20,
+    "flexibleRangeDays": "17-21",
+    "bestSeason": "Late September–early October, for peak fall colours",
+    "currency": "Canadian Dollar (CAD)",
+    "language": "English (French in Quebec)",
+    "timezone": "Eastern Time, with Atlantic Time (+1h) in Nova Scotia/PEI/New Brunswick",
+    "arrivalAirport": "Toronto Pearson (YYZ)",
+    "departureAirport": "Halifax Stanfield (YHZ)",
+    "driving": "Right-hand traffic, excellent highways, long but easy distances"
+  },
+  "sections": {
+    "primary": {
+      "heading": "City, cottage, and the coast",
+      "intro": "Three distinct stretches: a big-city and lake-country start in Ontario, French Canada through the middle, then the Atlantic provinces where the road runs along the cliffs for hours at a time."
+    },
+    "nature": {
+      "heading": "Maple forest, lake and tideline",
+      "intro": "This is the fall-colour trip. Sugar maple turns red here rather than gold, and the colour runs all the way from Algonquin east to Cape Breton."
+    },
+    "cities": {
+      "heading": "Two languages, five different downtowns",
+      "intro": "Toronto's glass and Montreal's brick, Quebec City's walled old town, and harbour towns out east where everything faces the water."
+    },
+    "food": {
+      "heading": "Gravy, smoked meat and maple",
+      "intro": "Comfort food is the whole idiom — fries buried under cheese curds, sandwiches piled past reason, and sugar in forms you haven't met before."
+    },
+    "why": {
+      "heading": "What the east coast gives you",
+      "intro": "Peak colour, effortless driving, no language barrier worth the name, and a coastline most people never get round to."
+    },
+    "thingsToDo": {
+      "heading": "Waterfalls, ferries and sugar",
+      "intro": "Nearly all of this is turn-up-and-do: a ferry, a bridge, a farm road, a cable car over a waterfall. Only the whale boats want a phone call the day before."
+    }
+  },
+  "itinerary": [
+    {
+      "days": "1",
+      "location": "Toronto (arrival)",
+      "lat": 43.6777,
+      "lon": -79.6248,
+      "nights": 1,
+      "description": "Land in the evening, sleep near the airport, and start the trip well rested."
+    },
+    {
+      "days": "2-3",
+      "location": "Toronto",
+      "lat": 43.6532,
+      "lon": -79.3832,
+      "nights": 2,
+      "description": "The Distillery District, the waterfront, and Kensington Market's colourful mess of shops."
+    },
+    {
+      "days": "4-5",
+      "location": "Muskoka",
+      "lat": 45.0333,
+      "lon": -79.3,
+      "nights": 2,
+      "description": "Slow down at a lakeside cottage — swims, quiet sunsets, and Algonquin's maples an hour away."
+    },
+    {
+      "days": "6-7",
+      "location": "Ottawa",
+      "lat": 45.4215,
+      "lon": -75.6972,
+      "nights": 2,
+      "description": "Parliament Hill, riverside parkland, the canal, and the ByWard Market for browsing."
+    },
+    {
+      "days": "8-9",
+      "location": "Montreal",
+      "lat": 45.5019,
+      "lon": -73.5674,
+      "nights": 2,
+      "description": "Cobblestones and murals, a walk up Mount Royal, and the best smoked meat and bagels anywhere."
+    },
+    {
+      "days": "10-11",
+      "location": "Quebec City",
+      "lat": 46.8139,
+      "lon": -71.208,
+      "nights": 2,
+      "description": "A walled old town straight out of Europe, a waterfall taller than Niagara, and a food island next door."
+    },
+    {
+      "days": "12",
+      "location": "Fredericton, New Brunswick",
+      "lat": 45.9636,
+      "lon": -66.6431,
+      "nights": 1,
+      "description": "The road-trip night: a long, pretty drive east and a motel on the Saint John river."
+    },
+    {
+      "days": "13-14",
+      "location": "Prince Edward Island",
+      "lat": 46.2382,
+      "lon": -63.1311,
+      "nights": 2,
+      "description": "Red cliffs and rolling farmland, reached across a 13 km bridge, with Hopewell Rocks on the way."
+    },
+    {
+      "days": "15-17",
+      "location": "Cabot Trail, Cape Breton",
+      "lat": 46.68,
+      "lon": -60.38,
+      "nights": 3,
+      "description": "One of the world's great coastal drives, with easy cliff hikes and fishing villages below."
+    },
+    {
+      "days": "18-19",
+      "location": "Halifax",
+      "lat": 44.6488,
+      "lon": -63.5752,
+      "nights": 2,
+      "description": "A friendly harbour city, the postcard lighthouse at Peggy's Cove, and Lunenburg down the coast."
+    },
+    {
+      "days": "20",
+      "location": "Departure from Halifax",
+      "lat": 44.8808,
+      "lon": -63.5086,
+      "nights": 0,
+      "description": "Fly home."
+    }
+  ],
+  "primaryHighlights": [
+    {
+      "title": "Ontario's Lake Country",
+      "description": "Big-city energy in Toronto, or quiet lakeside days at a cottage — an easy, relaxed start to the trip.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Muskoka_Morning_Sail.jpg",
+      "caption": "Sailboat on a Muskoka lake"
+    },
+    {
+      "title": "Old Quebec & Montreal",
+      "description": "Montreal's energy and Quebec City's fairy-tale Old Town — a taste of Europe far from home.",
+      "image": "https://cdn.mos.cms.futurecdn.net/9JfC2FK9oK74b68sP44TSV.jpg",
+      "caption": "Château Frontenac at dusk"
+    },
+    {
+      "title": "The Cabot Trail",
+      "description": "Red dunes, cliffside roads, lighthouses, and fishing villages — the scenery you'll be showing off in photos for years.",
+      "image": "https://novascotia.com/wp-content/uploads/2024/09/DJI_0282_Enhanced_NR.jpg",
+      "caption": "Peggy's Cove harbour and lighthouse"
+    }
+  ],
+  "natureHighlights": [
+    {
+      "title": "Muskoka Lakes",
+      "description": "Ontario's beloved lake district — swim, relax, and enjoy the water at your own pace.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/3_Mile_Lake.jpg",
+      "caption": "Autumn dock on a Muskoka lake"
+    },
+    {
+      "title": "Algonquin Provincial Park",
+      "description": "Easy forest trails and lookout points over lakes surrounded by maple and pine.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Algonquin_Cache_Lake_Lookout.JPG",
+      "caption": "Lake view from Algonquin's lookout rocks"
+    },
+    {
+      "title": "Bay of Fundy / Hopewell Rocks",
+      "description": "Towering flowerpot rock formations standing on a sea bed that empties and refills twice a day.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Sandstone_in_Canada_-_IMG_0791_%2811385934064%29.jpg/3840px-Sandstone_in_Canada_-_IMG_0791_%2811385934064%29.jpg",
+      "caption": "Hopewell Rocks flowerpot formations"
+    },
+    {
+      "title": "Cape Breton Highlands National Park",
+      "description": "A boardwalk trail along green cliffs, ending at one of the best ocean viewpoints in Canada.",
+      "image": "https://capebreton.lokol.me/Content/Uploads/XV5PDES5VUCHAMQQRS2QRNDW6GAEQ6GX/Media/6/MUS%20CB%20Highlands%20NP.jpg",
+      "caption": "Cabot Trail's coastal switchbacks"
+    },
+    {
+      "title": "Prince Edward Island North Shore",
+      "description": "Red cliffs, soft sand beaches, and farmland green as far as you can see.",
+      "image": "https://iss-cdn.myrealpage.com/bSzlV6B0YsCGvNRSX4Z0mkIM3S9sPlOBphmoSbu1jog/rs:auto:1600:0:0/g:sm/aHR0cDovL3Jlcy5teXJlYWxwYWdlLmNvbS93cHMvcmVzdC82NDAyOS9ibG9nL3BiZHcvcGJkd29ldGliam55LnBuZw",
+      "caption": "Red cliffs on PEI's north shore"
+    }
+  ],
+  "cityHighlights": [
+    {
+      "title": "Toronto",
+      "description": "A big, easy-to-love city with waterfront walks and great shopping.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Toronto_Skyline_from_Olympic_Island%2C_June_20_2026_%285-3_cropped%29.jpg/3840px-Toronto_Skyline_from_Olympic_Island%2C_June_20_2026_%285-3_cropped%29.jpg",
+      "caption": "Toronto skyline from the harbour"
+    },
+    {
+      "title": "Ottawa",
+      "description": "Grand government architecture, riverside parkland, and a lively market for browsing.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Parliament-Ottawa.jpg",
+      "caption": "Parliament Hill's Peace Tower"
+    },
+    {
+      "title": "Montreal",
+      "description": "Old Montreal's grand basilica and cobblestone streets, right by the murals and cafés of the Plateau.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-11%2C_DD_26-28_HDR.jpg/3840px-Bas%C3%ADlica_de_Notre-Dame%2C_Montreal%2C_Canad%C3%A1%2C_2017-08-11%2C_DD_26-28_HDR.jpg",
+      "caption": "Notre-Dame Basilica at night"
+    },
+    {
+      "title": "Quebec City",
+      "description": "The storybook, castle-like Château Frontenac towering over the Old Town — like stepping into Europe without leaving Canada.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Ch%C3%A2teau_Frontenac_02.jpg",
+      "caption": "Château Frontenac in winter"
+    },
+    {
+      "title": "Halifax",
+      "description": "A hilltop star-shaped fort overlooking a friendly harbour city — a relaxed spot to end the trip.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Citadel_hill.jpg",
+      "caption": "The star-shaped Halifax Citadel"
+    },
+    {
+      "title": "Lunenburg",
+      "description": "A UNESCO fishing town of bright wooden houses stacked up a hillside, an hour down the coast from Halifax.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Lunenburg_-_NS_-_Lunenburg_Hafen2.jpg/1920px-Lunenburg_-_NS_-_Lunenburg_Hafen2.jpg",
+      "caption": "Waterfront warehouses in Lunenburg"
+    }
+  ],
+  "culinaryHighlights": [
+    {
+      "title": "Poutine",
+      "description": "Fries, cheese curds and gravy — Canada's ultimate comfort food, and impossible to have just once.",
+      "image": "https://commons.wikimedia.org/wiki/Special:FilePath/Food_Poutine_Closeup.JPG",
+      "caption": "A plate of poutine"
+    },
+    {
+      "title": "Montreal Smoked Meat",
+      "description": "Piled-high sandwiches at legendary, no-frills delis.",
+      "image": "https://thatswhatshehad.com/wp-content/uploads/2016/02/DSC_0643.jpg",
+      "caption": "A hand-piled smoked meat sandwich"
+    },
+    {
+      "title": "Beaver Tails",
+      "description": "Fried-dough hand-stretched pastries served hot with sweet toppings like cinnamon sugar or chocolate.",
+      "image": "https://ottawatourism.ca/sites/default/files/styles/twitter_card/public/images/2020/03/BeaverTails-stand-photographer-Allie-Cui-signed_0.jpg",
+      "caption": "A BeaverTails pastry in Ottawa"
+    },
+    {
+      "title": "Maple Syrup & Fudge",
+      "description": "Fresh maple syrup and maple taffy on snow, straight from the source.",
+      "image": "https://res.klook.com/images/fl_lossy.progressive,q_65/c_fill,w_1295,h_828/w_80,x_15,y_15,g_south_west,l_Klook_water_br_trans_yhcmh3/activities/ktfzlghq5hmiyeahoujk/Niagara-on-the-Lake,ChocolateWineryTour.jpg",
+      "caption": "Maple fudge in a display case"
+    },
+    {
+      "title": "Halifax Donair",
+      "description": "A beloved local sandwich, sweet and spiced — the perfect last bite before flying home.",
+      "image": "https://cdn.hswstatic.com/gif/halifax-donair.jpg",
+      "caption": "A donair wrap with creamy sauce"
+    },
+    {
+      "title": "Fast Food & Big-City Eating",
+      "description": "Five Guys and A&W on every highway exit, and in Toronto and Montreal some of the best ramen, dumplings and Korean food outside Asia.",
+      "image": "https://tastet.ca/wp-content/uploads/2016/03/yokato-yokabai-5.jpg",
+      "caption": "Chinatown street on Spadina Avenue"
+    }
+  ],
+  "thingsToDo": [
+    {
+      "title": "Montmorency Falls",
+      "description": "A waterfall taller than Niagara with a suspension bridge straight across the top, a cable car up the side, and a staircase down the cliff.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Chute_Montmorency.JPG/1920px-Chute_Montmorency.JPG",
+      "caption": "Suspension bridge over Montmorency Falls"
+    },
+    {
+      "title": "Île d'Orléans Food Road",
+      "description": "A single loop road around a farm island in the St Lawrence, lined with cider houses, chocolate makers, bakeries and cheese sheds.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/%C3%8Ele_d%27Orl%C3%A9ans_009.jpg/1920px-%C3%8Ele_d%27Orl%C3%A9ans_009.jpg",
+      "caption": "Lavender rows on Île d'Orléans"
+    },
+    {
+      "title": "The Muskoka Cranberry Harvest",
+      "description": "A bog floods bright red as the cranberries are shaken loose and gathered for harvest right through October, followed by a taste of the apple and cranberry ciders made on the farm.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Cranberry_Harvest_in_Massachusetts.jpg",
+      "caption": "A flooded cranberry bog at harvest"
+    },
+    {
+      "title": "The Toronto Islands Ferry",
+      "description": "A fifteen-minute crossing to a car-free island with the best view of the skyline, plus rental bikes and a boardwalk.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Toronto_Skyline_from_the_Toronto_Islands_Airport_Ferry.jpg/1920px-Toronto_Skyline_from_the_Toronto_Islands_Airport_Ferry.jpg",
+      "caption": "Downtown Toronto from the ferry"
+    },
+    {
+      "title": "Driving the Confederation Bridge",
+      "description": "Thirteen kilometres of bridge over open sea to Prince Edward Island — about twelve minutes with water on both sides the whole way.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/NB_-_Confederation_Bridge1.jpg/1920px-NB_-_Confederation_Bridge1.jpg",
+      "caption": "Driving across Confederation Bridge"
+    },
+    {
+      "title": "Whale Boats off Cape Breton",
+      "description": "Humpbacks, minke and pilot whales feed off the northern tip of the island, and the boats run right through October.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nova_Scotia_DSC08266_-_Whale_Watching_Boat_%2836288309156%29.jpg/1920px-Nova_Scotia_DSC08266_-_Whale_Watching_Boat_%2836288309156%29.jpg",
+      "caption": "A whale-watching boat at sea"
+    }
+  ],
+  "otherPerks": [
+    "Peak maple colour — reds and oranges rather than the gold you get in the Alps, lasting for weeks",
+    "New type of scenery (atlantic coastal) in a familiar setting",
+    "A similar fast food and shopping experience to the US",
+    "Crowds thin out after Labour Day while everything stays open",
+    "Diner breakfasts, delis and roadside chip trucks between every city",
+    "Long distances, but empty roads and some of the best surfaces anywhere",
+    "Two languages and no friction — English works everywhere, including Quebec",
+    "A proper road-trip night in New Brunswick, motel and all"
+  ]
+}
