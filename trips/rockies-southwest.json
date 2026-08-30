@@ -1,0 +1,345 @@
+{
+  "_notes": [
+    "Non-rendered field: destination facts and seasonality findings only. The app ignores keys it does not know. Planning rationale and open questions are kept outside the repo.",
+    "LANDSCAPE MIX: this route deliberately spans two opposite landscapes — Colorado's green high country (aspen, spruce, alpine lakes, 3,000 m passes) and Utah's red-rock desert. It is weighted toward Colorado: 9 of 20 nights in the mountains against 6 in Utah, only two Utah bases (Moab for Arches and Canyonlands, Springdale for Zion — a green river canyon rather than open desert). The full Utah 'Mighty 5' circuit is deliberately NOT attempted; Capitol Reef and Bryce are drive-through stops on the transfer day, not bases.",
+    "SEASONALITY — COLORADO FALL COLOUR (verified Aug 2026; re-checked 30 Aug 2026): peak is EARLY, and this is the real tension. Forecast 2026 peaks are 18-30 September for the Collegiate Peaks, Aspen, Leadville and Crested Butte, and 27 September - 5 October for Telluride and the rest of the San Juans. An early-October start catches the tail of San Juan colour; the Aspen area will already be past peak. A trip starting in mid-October misses the aspens entirely.",
+    "SEASONALITY — PASSES: Independence Pass (CO 82, Aspen to Twin Lakes) typically closes for winter in late October to mid-November — it closed 17 Nov in 2025 — but the first big storm can shut it early. October is normally fine; have the alternative via I-70 and Glenwood Springs in your pocket. Trail Ridge Road in Rocky Mountain NP closes to through travel mid-to-late October (25 Oct in 2024); an early-October visit is safe, later is not.",
+    "SEASONALITY — NEVADA: Great Basin NP was considered and dropped. The Wheeler Peak Scenic Drive is only open roughly June-October and closes on snow, and the park is a long detour from anything else. Las Vegas is used purely as a flight bookend instead.",
+    "SEASONALITY — UTAH: no problem. October is the best month — 10-27°C, thin crowds, and Arches has no timed-entry requirement in 2026. Zion still runs its shuttle in the main canyon.",
+    "ROUTING: open-jaw, Denver (DEN) in and Las Vegas (LAS) out. A loop back to Denver would add two full driving days for nothing.",
+    "DRIVING NOTE: every leg is inside the 4-6h cap except Moab to Springdale, which is about 5h30 and is deliberately broken with a stop at Capitol Reef. That is the one long day of the trip.",
+    "CARD CAPTIONS — PRIMARY (migrated 2026-08-30): Colorado's High Country: Nine of the twenty nights, at four separate bases | The Million Dollar Highway: 40 km between Ouray and Silverton — allow 90 minutes with stops | The Red Rock Country: Eight nights across Utah and Arizona",
+    "CARD CAPTIONS — NATURE (migrated 2026-08-30): Trail Ridge Road, Rocky Mountain NP: Open in early October; closes to through traffic mid-to-late month | Maroon Bells: Timed-entry shuttle from Aspen — the road is car-free most of the day | Canyonlands & Mesa Arch: Sunrise is the shot; 40 minutes from Moab | Zion Canyon: Main canyon is shuttle-only — park once and ride | Monument Valley: Navajo tribal park; the 27 km valley loop is rough but drivable | Bryce Canyon: A stop on the Moab–Zion leg; no overnight needed",
+    "CARD CAPTIONS — CITIES (migrated 2026-08-30): Estes Park: Elk rut peaks in October; they wander the streets | Ouray: Hot springs in the middle of town | Las Vegas: One night at the end, purely as the airport bookend | Denver: 1,600 m — two nights here makes the 3,700 m passes much easier | Salt Lake City: The optional night — skipping it makes the trip 21 days and one long Moab–Zion drive",
+    "CARD CAPTIONS — FOOD (migrated 2026-08-30): Green Chile Cheeseburgers: Milt's Stop & Eat in Moab has served them since 1954 | Mountain Town Breakfast: Most mountain diners stop serving breakfast at 11am sharp | Moab Roadside Barbecue: Trailers open around 11am and close when the meat runs out | American Fast Food: In-N-Out starts appearing around St George, Utah | American Supermarkets: Open late, and the snack aisles alone are worth an hour | Vegas Dumplings & Noodles: Most of it stays open past midnight, unlike the Strip restaurants",
+    "CARD CAPTIONS — THINGS TO DO (migrated 2026-08-30): The Durango & Silverton Steam Railway: Runs to late October; board at Silverton for the shorter half. Book ahead | Red Rocks Amphitheatre: Thirty minutes from Denver; free whenever there is no event | Antelope Canyon: Book direct with a Navajo operator; midday slots get the beams | Horseshoe Bend: Flat 1.2 km each way, no shade — go early or late | Ouray Hot Springs: Walk-in, no booking; Box Canyon Falls is five minutes away | Red Rock Canyon Scenic Loop: Timed-entry booking October to May; an hour is enough"
+  ],
+  "destination": "The Rockies — Colorado, Utah & Nevada",
+  "title": "Aspens to Red Rock: A Three-Week Western US Road Trip",
+  "heroImage": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Aspen-maroon-bells-colorado.jpg/1920px-Aspen-maroon-bells-colorado.jpg",
+    "caption": "Maroon Bells, Aspen, Colorado",
+    "credit": "Wikimedia Commons"
+  },
+  "ideaImage": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Arapaho_National_Forest_2010_USDAgov.jpg/1920px-Arapaho_National_Forest_2010_USDAgov.jpg",
+    "caption": "Aspen turning in the Colorado high country"
+  },
+  "theme": {
+    "bg": "#f5efe6",
+    "ink": "#241c16",
+    "dim": "#6e5f52",
+    "line": "rgba(36,28,22,.16)",
+    "panel": "#fdf9f3",
+    "deep": "#1e2a26",
+    "onDeep": "#efe6d8",
+    "accent": "#b5541f",
+    "mapLand": "#e9dfcd",
+    "mapLine": "rgba(36,28,22,.22)"
+  },
+  "brief": "Three weeks of big American driving, front-loaded with the green stuff. Ten nights in Colorado's high country — aspen gold, alpine passes, mining towns and the Million Dollar Highway — then south into red rock for arches, slot canyons and Zion, finishing at Las Vegas for the flight home. Enormous scenery, great roads, and burgers the whole way.",
+  "vibe": "Aspen gold to red rock canyons",
+  "facts": {
+    "recommendedDurationDays": 22,
+    "flexibleRangeDays": "20-22 — Salt Lake City is the optional night",
+    "bestSeason": "Late September–early October — the only window that catches Colorado's aspens before the passes close",
+    "currency": "US Dollar (USD)",
+    "language": "English",
+    "timezone": "Mountain Time; Arizona skips daylight saving, so it runs an hour behind Utah in October",
+    "arrivalAirport": "Denver (DEN)",
+    "departureAirport": "Las Vegas (LAS)",
+    "driving": "Right-hand traffic, superb roads, long distances, high-altitude passes"
+  },
+  "itinerary": [
+    {
+      "days": "1",
+      "location": "Denver (arrival)",
+      "lat": 39.8561,
+      "lon": -104.6737,
+      "nights": 1,
+      "description": "Land in the evening and sleep near the airport at a comfortable 1,600 m."
+    },
+    {
+      "days": "2-3",
+      "location": "Denver",
+      "lat": 39.7392,
+      "lon": -104.9903,
+      "nights": 2,
+      "description": "A day or two in the city before going up — brewpubs, a huge bookshop, and Red Rocks in the foothills."
+    },
+    {
+      "days": "4-6",
+      "location": "Estes Park & Rocky Mountain NP",
+      "lat": 40.3772,
+      "lon": -105.5217,
+      "nights": 3,
+      "description": "Straight into the high country — alpine lakes, elk in rut, and Trail Ridge Road over 3,700 m while it is still open."
+    },
+    {
+      "days": "7-9",
+      "location": "Aspen",
+      "lat": 39.1911,
+      "lon": -106.8175,
+      "nights": 3,
+      "description": "Over Independence Pass, then the Maroon Bells, a ghost town up the valley, and a gondola over turning aspen."
+    },
+    {
+      "days": "10-12",
+      "location": "Ouray & the San Juans",
+      "lat": 38.0228,
+      "lon": -107.6712,
+      "nights": 3,
+      "description": "The Million Dollar Highway, hot springs in the middle of town, and a steam train out of Silverton."
+    },
+    {
+      "days": "13-14",
+      "location": "Page, Arizona",
+      "lat": 36.9147,
+      "lon": -111.4558,
+      "nights": 2,
+      "description": "The longest drive of the trip, broken at the Mesa Verde cliff dwellings, then slot canyons and Horseshoe Bend."
+    },
+    {
+      "days": "15-17",
+      "location": "Moab",
+      "lat": 38.5733,
+      "lon": -109.5498,
+      "nights": 3,
+      "description": "North through Monument Valley to sandstone arches, a mesa-top canyon rim, and a very different kind of enormous."
+    },
+    {
+      "days": "18",
+      "location": "Salt Lake City (optional)",
+      "lat": 40.7608,
+      "lon": -111.891,
+      "nights": 1,
+      "description": "A night between the red rock and Zion — Temple Square, the Great Salt Lake, and a proper city to restock in."
+    },
+    {
+      "days": "19-20",
+      "location": "Springdale & Zion",
+      "lat": 37.1889,
+      "lon": -112.9983,
+      "nights": 2,
+      "description": "A green river canyon with 600 m walls, cottonwoods turning yellow, and a shuttle that does the driving."
+    },
+    {
+      "days": "21",
+      "location": "Las Vegas",
+      "lat": 36.1699,
+      "lon": -115.1398,
+      "nights": 1,
+      "description": "Two and a half hours down, and one full night of neon, buffets and outlet malls."
+    },
+    {
+      "days": "22",
+      "location": "Departure from Las Vegas",
+      "lat": 36.084,
+      "lon": -115.1537,
+      "nights": 0,
+      "description": "A morning loop of Red Rock Canyon, then fly home."
+    }
+  ],
+  "primaryHighlights": [
+    {
+      "title": "Colorado's High Country",
+      "description": "Aspen gold, alpine lakes and road passes above 3,500 m, with old mining towns and hot springs at the bottom of them.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Aspen%2C_Colorado_in_autumn.JPG/1920px-Aspen%2C_Colorado_in_autumn.JPG",
+      "caption": "Aspen town below the ski runs"
+    },
+    {
+      "title": "The Million Dollar Highway",
+      "description": "Cliff-edge switchbacks with no guardrail, climbing over three high passes. The drive of the trip.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Million_Dollar_Highway_Ouray_County%2C_CO_1a34174u_original.jpg/1920px-Million_Dollar_Highway_Ouray_County%2C_CO_1a34174u_original.jpg",
+      "caption": "Highway ledge cut into rock"
+    },
+    {
+      "title": "The Red Rock Country",
+      "description": "A total change of landscape for the last week — arches, mesas, slot canyons, and rock that glows at either end of the day.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Delicate_arch_viewpoint.jpg/1920px-Delicate_arch_viewpoint.jpg",
+      "caption": "Delicate Arch from the viewpoint trail"
+    }
+  ],
+  "natureHighlights": [
+    {
+      "title": "Trail Ridge Road, Rocky Mountain NP",
+      "description": "The highest continuous paved road in the US, running above the treeline for 18 km with nothing but tundra either side.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Trail_Ridge_Road%2C_Rocky_Mountains_National_Park_20110824_1.jpg/1920px-Trail_Ridge_Road%2C_Rocky_Mountains_National_Park_20110824_1.jpg",
+      "caption": "Trail Ridge Road above the treeline"
+    },
+    {
+      "title": "Maroon Bells",
+      "description": "The most photographed mountains in North America, over a lake ringed with aspen. An easy 6 km loop around the shoreline.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Maroon_Bells_at_sunrise%2C_Aspen_Colorado.jpg/1920px-Maroon_Bells_at_sunrise%2C_Aspen_Colorado.jpg",
+      "caption": "Maroon Bells reflected in Maroon Lake"
+    },
+    {
+      "title": "Canyonlands & Mesa Arch",
+      "description": "A mesa top with 600 m drops on three sides, and short rim walks to viewpoints that go on forever.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mesa_Arch_Canyonlands_sunrise.jpg/1920px-Mesa_Arch_Canyonlands_sunrise.jpg",
+      "caption": "Mesa Arch glowing at sunrise"
+    },
+    {
+      "title": "Zion Canyon",
+      "description": "The greenest place in Utah — a river, cottonwoods and 600 m sandstone walls closing in overhead.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Overlook_trail_view_-_Zion_Canyon.jpg/1920px-Overlook_trail_view_-_Zion_Canyon.jpg",
+      "caption": "Overlook down into Zion Canyon"
+    },
+    {
+      "title": "Monument Valley",
+      "description": "Sandstone buttes standing 300 m out of flat red desert, on the drive between Page and Moab.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/John_Ford%27s_Point_Monument_Valley_Luca_Galuzzi_2007.jpg/1920px-John_Ford%27s_Point_Monument_Valley_Luca_Galuzzi_2007.jpg",
+      "caption": "Horseback rider at John Ford's Point"
+    },
+    {
+      "title": "Bryce Canyon",
+      "description": "Thousands of orange rock spires standing in a natural amphitheatre, seen from a rim walk on the drive south.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bryce_Canyon_Amphitheater_Hoodoos_Panorama.jpg/1920px-Bryce_Canyon_Amphitheater_Hoodoos_Panorama.jpg",
+      "caption": "The Bryce Amphitheater hoodoos"
+    }
+  ],
+  "cityHighlights": [
+    {
+      "title": "Estes Park",
+      "description": "A cheerful gateway town of taffy shops and outfitters, right at the park entrance.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/West_Elkhorn_Avenue%2C_Estes_Park_%282024%29-104A4568.jpg/1920px-West_Elkhorn_Avenue%2C_Estes_Park_%282024%29-104A4568.jpg",
+      "caption": "Elkhorn Avenue shopfronts in autumn"
+    },
+    {
+      "title": "Ouray",
+      "description": "“The Switzerland of America” — a Victorian mining town wedged into a box canyon barely wide enough to hold it.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ouray_CO_East_Side_of_Downtown_2006_09_13.jpg/1920px-Ouray_CO_East_Side_of_Downtown_2006_09_13.jpg",
+      "caption": "Main Street, downtown Ouray"
+    },
+    {
+      "title": "Las Vegas",
+      "description": "Neon, enormous hotels and outlet malls — pure spectacle after three weeks of mountains and rock.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Las_Vegas_Strip_panorama.jpg/1920px-Las_Vegas_Strip_panorama.jpg",
+      "caption": "The Strip lit up at night"
+    },
+    {
+      "title": "Denver",
+      "description": "A mile-high city with a walkable centre, and the right place to spend two nights getting used to the altitude before going higher.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Downtown_Denver_skyline.jpg/1920px-Downtown_Denver_skyline.jpg",
+      "caption": "Downtown Denver skyline from the interstate"
+    },
+    {
+      "title": "Salt Lake City",
+      "description": "A wide, flat, mountain-ringed city laid out on a grid, with Temple Square at the middle of it and the Wasatch range straight above.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Salt_Lake_City%2C_May_2012.jpg/1920px-Salt_Lake_City%2C_May_2012.jpg",
+      "caption": "Skyline below the Wasatch Range"
+    }
+  ],
+  "culinaryHighlights": [
+    {
+      "title": "Green Chile Cheeseburgers",
+      "description": "The Southwest's contribution to the burger — roasted green chile piled on top. Found at roadside shacks all the way down.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hatch_Green_Chile_Hamburger.jpg/1920px-Hatch_Green_Chile_Hamburger.jpg",
+      "caption": "Green chile cheeseburger and fries"
+    },
+    {
+      "title": "Mountain Town Breakfast",
+      "description": "Enormous diner breakfasts in Estes Park, Aspen and Ouray — pancakes, hash browns and bottomless coffee before a hike.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/American_breakfast_%28187066827%29.jpg/1920px-American_breakfast_%28187066827%29.jpg",
+      "caption": "Eggs, bacon and pancakes"
+    },
+    {
+      "title": "Moab Roadside Barbecue",
+      "description": "Smoked brisket, ribs and pulled pork from trailers and shacks on the highway into town, sold by weight on butcher paper.",
+      "image": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/gtvnahpx/28dabfe9-e45d-4ef0-8d99-23e54985327a.jpeg",
+      "caption": "Brisket, ribs and sausage"
+    },
+    {
+      "title": "American Fast Food",
+      "description": "The real thing, done properly and everywhere from Utah onward — In-N-Out, Whataburger, Chick-fil-A, and a drive-through on every corner.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/In-N-Out_Restaurant.jpg/1920px-In-N-Out_Restaurant.jpg",
+      "caption": "In-N-Out Burger at sunset"
+    },
+    {
+      "title": "Mexican Food",
+      "description": "Real mexican food with desert influences, from tacos and burritos to home-style stuffed poblano and rice platters",
+      "image": "https://www.rediguana.com/wp-content/uploads/TacosDonRamon.jpg",
+      "caption": "Red Iguana in SLC"
+    },
+    {
+      "title": "Vegas Dumplings & Noodles",
+      "description": "Las Vegas quietly has some of the best Asian food in the country — Din Tai Fung on the Strip, and a whole Chinatown of noodle and hotpot places two miles west.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb1sQNGMt6swrUr_Ibu8P4SakmQnNXQE-lwRnU0n0w2A&s=10",
+      "caption": "Din Tai Fung, Las Vegas"
+    }
+  ],
+  "thingsToDo": [
+    {
+      "title": "The Durango & Silverton Steam Railway",
+      "description": "A coal-fired narrow-gauge train that has run the Animas river gorge since 1882, on ledges cut into the cliff with no road anywhere near.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Train_by_the_Durango_and_Silverton_Narrow_Gauge_Railroad.jpg/1920px-Train_by_the_Durango_and_Silverton_Narrow_Gauge_Railroad.jpg",
+      "caption": "Steam locomotive No. 480"
+    },
+    {
+      "title": "Red Rocks Amphitheatre",
+      "description": "A concert venue wedged between two 90 m sandstone slabs. On non-show days you walk in free, and locals run the steps as a workout.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Red_Rocks_Amphitheatre%2C_Colorado_10.jpg/1920px-Red_Rocks_Amphitheatre%2C_Colorado_10.jpg",
+      "caption": "Climbing the amphitheatre's stone steps"
+    },
+    {
+      "title": "Antelope Canyon",
+      "description": "A slot canyon barely a metre wide in places, with light shafts dropping through from the desert above. Navajo land, so guided only.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Upper_Antelope_Canyon_Heart_Formation_2013.jpg/1920px-Upper_Antelope_Canyon_Heart_Formation_2013.jpg",
+      "caption": "Swirling sandstone walls in the canyon"
+    },
+    {
+      "title": "Horseshoe Bend",
+      "description": "A 300 m cliff edge above a near-perfect loop of the Colorado river, fifteen minutes' walk from the car park.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/USA_10187_Horseshoe_Bend_Luca_Galuzzi_2007.jpg/1920px-USA_10187_Horseshoe_Bend_Luca_Galuzzi_2007.jpg",
+      "caption": "The Colorado River's horseshoe bend"
+    },
+    {
+      "title": "Ouray Hot Springs",
+      "description": "A row of open-air mineral pools at different temperatures, right in the middle of town under the peaks, open year-round.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ouray_Hot_Springs%2C_Pool._Ouray%2C_Colorado_LCCN2015632405.tif/lossy-page1-1920px-Ouray_Hot_Springs%2C_Pool._Ouray%2C_Colorado_LCCN2015632405.tif.jpg",
+      "caption": "Swimmers at the hot springs pool"
+    },
+    {
+      "title": "Red Rock Canyon Scenic Loop",
+      "description": "A one-way 21 km loop through red sandstone escarpments half an hour from the Las Vegas Strip — the last thing before the airport.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Red_Rock_Canyon_HDR_7.jpg/1920px-Red_Rock_Canyon_HDR_7.jpg",
+      "caption": "Sandstone peaks at dusk"
+    }
+  ],
+  "otherPerks": [
+    "Star fields once you leave the towns — almost no light pollution on the whole route",
+    "Three of the great American drives: Trail Ridge, Independence Pass, the Million Dollar Highway",
+    "Aspens peak in the San Juans in early October — whole mountainsides turning gold at once",
+    "Wildlife without trying: bighorn sheep on the passes, marmots on the trails, elk in the towns",
+    "Two nights in Denver first, so the 3,700 m passes never feel like altitude",
+    "Big diner breakfasts, green chile on everything, In-N-Out before the flight home",
+    "Everything in English, superb roads, and a supermarket in every town",
+    "Viewpoints, trailheads and arches are all minutes from wherever you park"
+  ],
+  "sections": {
+    "primary": {
+      "heading": "Two landscapes, one drive",
+      "intro": "The trip splits cleanly in half. Ten nights of alpine Colorado — gold aspen, mining towns, passes above the treeline — then the ground turns orange and stays that way through Utah and Arizona to the Nevada border."
+    },
+    "nature": {
+      "heading": "Above the treeline, then below the rim",
+      "intro": "Colorado goes up: alpine lakes, 3,500 m road passes, valleys full of turning aspen. The southwest goes down: arches, mesa edges, slot canyons and a river canyon with 600 m walls."
+    },
+    "cities": {
+      "heading": "Mining towns, gateway towns, and one very bright city",
+      "intro": "A mile-high city to start and acclimatise in, Victorian mining towns wedged into canyons with hot springs at the bottom, a grid-planned city under the Wasatch, and Las Vegas at the very end as a deliberate change of tone."
+    },
+    "food": {
+      "heading": "Diners, burgers and roadside barbecue",
+      "intro": "American road food at its best — enormous breakfasts before a hike, green chile on everything, smoked brisket from highway shacks, and a supermarket in every town worth an hour of wandering."
+    },
+    "why": {
+      "heading": "What three weeks out here actually buys you",
+      "intro": "Scale, mostly. The drives are the attraction as much as the parks are, and the landscape resets completely halfway through."
+    },
+    "thingsToDo": {
+      "heading": "Steam trains, slot canyons and hot springs",
+      "intro": "The driving is the spine of this trip. These are the things worth stopping the car for — most of them turn-up-and-go, two of them worth booking the week before."
+    }
+  }
+}

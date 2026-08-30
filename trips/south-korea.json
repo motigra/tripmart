@@ -1,0 +1,314 @@
+{
+  "_notes": [
+    "Non-rendered field: destination facts and seasonality findings only. The app ignores keys it does not know. Planning rationale and open questions are kept outside the repo.",
+    "TRIP LENGTH: scoped at 17 days because international access to Korea currently requires a connection. The flight-access reasoning behind that number is in the private planning notes.",
+    "SEASONALITY — FOLIAGE (re-verified 30 Aug 2026): the 2026 forecast has firmed up and is EARLIER than the long-term normal. First colour on Seoraksan's upper slopes around 27-30 September; peak across the whole mountain forecast for 12-15 OCTOBER 2026. For comparison the long-term normal peak is ~17 Oct, and it ran late in recent years (24 Oct 2025, 29 Oct 2024). The Korea Meteorological Administration publishes its official map in early September — check it before fixing dates. A 12-15 October peak sits much closer to the usual travel window than earlier estimates suggested.",
+    "SEASONALITY — OTHERWISE: no closure risk anywhere. Korean national parks, temples, markets and transport all run year-round, and October is dry, mild and the single best month to visit.",
+    "LOGISTICS: no car for the Seoul days — the metro is better and parking is awful. Pick the car up on day 6 and drop it in Busan. Driving in Korea requires an International Driving Permit alongside a national licence; roads and signage are excellent and tolls are automatic.",
+    "LOGISTICS: the return runs Busan to Seoul by KTX (about 2h40) rather than driving back, so the last day is not spent on the motorway.",
+    "CARD CAPTIONS — PRIMARY (migrated 2026-08-30): Seoul: Four nights at the start, and no car until you leave. | Seoraksan National Park: 2026 peak forecast for 12–15 October; upper slopes turn from late September. | Busan & Gamcheon: Two nights at the end, before the train back.",
+    "CARD CAPTIONS — NATURE (migrated 2026-08-30): Ulsanbawi Ridge: About 8 km return, with 800-plus steps at the top. | Biseondae & Sinheungsa: About 5 km and level throughout — the gentle Seoraksan option. | Dodamsambong, Danyang: Lit after dark; the riverside path is a ten-minute stroll. | Sobaeksan National Park: The same forest as Seoraksan, without the crowds or the staircases. | The East Coast Drive: Highway 7 runs the coast for 200 km with very little traffic.",
+    "CARD CAPTIONS — CITIES (migrated 2026-08-30): Seoul: Four nights at the start, and no car until you leave. | Sokcho: Twenty minutes from the Seoraksan park gate. | Gyeongju: The mounds are lit after dark and free to walk among. | Busan: Three hours from Seoul by KTX if you drop the car early. | Jeonju: Stay inside the old quarter if you can — it empties after dark. | Danyang: The riverside promenade is lit at night and lined with food stalls.",
+    "CARD CAPTIONS — FOOD (migrated 2026-08-30): Korean Fried Chicken: Order banban and you get half plain, half sauced. | Samgyeopsal: Priced per portion with a two-portion minimum; staff do the grilling. | Tteokbokki & Street Snacks: Sindang-dong in Seoul is the street that specialises in it. | Jeonju Bibimbap: Gajok Hoegwan and Hankookjib are the two long-standing institutions. | Kimchi: There are over a hundred regional kinds; every restaurant has its own. | Hotteok & Bingsu: Hotteok carts appear on the street as soon as it turns cold.",
+    "CARD CAPTIONS — THINGS TO DO (migrated 2026-08-30): A Day at the DMZ: Licensed tours only — no independent access. Closed Mondays; bring passports. | Namsan & the Hilltop Gym: Cable car from Myeongdong, or 40 minutes up on foot through the park. | Seoul Sky: Go about an hour before sunset to get the city in both lights. | The Han River by Bike: Ttukseom and Yeouido have the biggest rental points; best after dark. | Gwangjang Market: Busiest early evening; bring cash and point at what looks good."
+  ],
+  "destination": "South Korea — Seoul, Seoraksan & the South",
+  "title": "Markets, Mountains & Fried Chicken: A South Korea Road Trip",
+  "heroImage": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Seoraksan_in_the_Fall_2-_%EC%84%A4%EC%95%85%EC%82%B0_%EB%8B%A8%ED%92%8D.jpg/1920px-Seoraksan_in_the_Fall_2-_%EC%84%A4%EC%95%85%EC%82%B0_%EB%8B%A8%ED%92%8D.jpg",
+    "caption": "Autumn colour in Seoraksan National Park",
+    "credit": "Wikimedia Commons"
+  },
+  "ideaImage": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg/1920px-Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg",
+    "caption": "Gyedong-gil, Bukchon, Seoul"
+  },
+  "theme": {
+    "bg": "#f3f0ec",
+    "ink": "#1f1c1a",
+    "dim": "#6b6360",
+    "line": "rgba(31,28,26,.16)",
+    "panel": "#fbf9f6",
+    "deep": "#20211c",
+    "onDeep": "#ece8e0",
+    "accent": "#c25226",
+    "mapLand": "#e5e1d9",
+    "mapLine": "rgba(31,28,26,.22)"
+  },
+  "brief": "The food trip, with mountains attached. Seoul first — markets, street food, neon, hanok lanes and some of the best casual eating anywhere — then a car east to Seoraksan for granite peaks and autumn colour, down through river country and old Gyeongju, and a finish in Busan among painted hillside houses. Safe, hyper-modern, and cheap once you land.",
+  "vibe": "Street food, mountains, neon",
+  "facts": {
+    "recommendedDurationDays": 20,
+    "flexibleRangeDays": "17-21",
+    "bestSeason": "Mid–late October — dry and mild, and the only window that catches Seoraksan's colour",
+    "currency": "South Korean Won (KRW)",
+    "language": "Korean; English signage is good, spoken English is patchy outside Seoul",
+    "timezone": "Korea Standard Time (UTC+9)",
+    "arrivalAirport": "Seoul Incheon (ICN)",
+    "departureAirport": "Seoul Incheon (ICN)",
+    "driving": "Right-hand traffic, excellent roads; International Driving Permit required",
+    "flightsWithinTrip": "None — the whole route is covered by car and one KTX train"
+  },
+  "sections": {
+    "primary": {
+      "heading": "Eat first, hike later",
+      "intro": "Four nights in Seoul to get properly through the markets, then a car east into granite mountains, south through river country to the town that invented the food, and a finish on the coast."
+    },
+    "nature": {
+      "heading": "Granite, forest and river bends",
+      "intro": "Korea is seventy percent mountain. Seoraksan is the dramatic end of it — spires, staircases and the country's earliest autumn colour — while Danyang and Sobaeksan are gentler, greener and nearly empty."
+    },
+    "cities": {
+      "heading": "Neon, hanok and painted hillsides",
+      "intro": "Seoul stacks glass towers over wooden courtyard houses. Gyeongju is low-rise and a thousand years old. Busan climbs a hillside in pastel."
+    },
+    "food": {
+      "heading": "The reason to come",
+      "intro": "Pork grilled at the table, fried chicken at midnight, rice cakes from a cart, and market stalls that each do one dish perfectly. Cheap, everywhere, and open late."
+    },
+    "why": {
+      "heading": "What Korea gives you that Europe can't",
+      "intro": "A completely different register — hyper-modern, exceptionally safe, and organised from top to bottom around eating at all hours."
+    },
+    "thingsToDo": {
+      "heading": "Border tours, bathhouses and a tower",
+      "intro": "Seoul rewards just walking out of the door, but a few things are worth planning around — the border in particular, which is the one thing here you cannot organise yourself."
+    }
+  },
+  "itinerary": [
+    {
+      "days": "1",
+      "location": "Incheon (arrival)",
+      "lat": 37.4602,
+      "lon": 126.4407,
+      "nights": 1,
+      "description": "Land, sleep at an airport hotel, and let the time difference settle before starting."
+    },
+    {
+      "days": "2-5",
+      "location": "Seoul",
+      "lat": 37.5665,
+      "lon": 126.978,
+      "nights": 4,
+      "description": "Four nights and no car — palaces and hanok lanes, market food every night, a hilltop park, and a day up to the DMZ."
+    },
+    {
+      "days": "6-8",
+      "location": "Sokcho & Seoraksan",
+      "lat": 38.207,
+      "lon": 128.5918,
+      "nights": 3,
+      "description": "Pick up the car and drive east. Granite spires, temple forest, a cable car, and the country's earliest autumn colour."
+    },
+    {
+      "days": "9-11",
+      "location": "Danyang & Sobaeksan",
+      "lat": 36.9847,
+      "lon": 128.3655,
+      "nights": 3,
+      "description": "River bends and limestone peaks, caves, a lakeside town famous for garlic bread, and quiet mountain trails."
+    },
+    {
+      "days": "12-14",
+      "location": "Gyeongju",
+      "lat": 35.8562,
+      "lon": 129.2247,
+      "nights": 3,
+      "description": "Grass burial mounds in the middle of town, hillside temples, and a street of food stalls that runs late."
+    },
+    {
+      "days": "15-16",
+      "location": "Busan",
+      "lat": 35.1796,
+      "lon": 129.0756,
+      "nights": 2,
+      "description": "Painted houses stacked up a hillside at Gamcheon, huge markets, and a temple built onto the sea cliffs."
+    },
+    {
+      "days": "17-19",
+      "location": "Jeonju",
+      "lat": 35.8242,
+      "lon": 127.148,
+      "nights": 3,
+      "description": "Korea's food capital — 700 restored hanok houses, and the dish this country is best known for, made where it was invented."
+    },
+    {
+      "days": "20",
+      "location": "Departure from Seoul",
+      "lat": 37.4602,
+      "lon": 126.4407,
+      "nights": 0,
+      "description": "Drop the car, KTX back to Seoul in under three hours, and fly home."
+    }
+  ],
+  "primaryHighlights": [
+    {
+      "title": "Seoul",
+      "description": "The main reason to come. Markets, night-time street food, hanok lanes and glass towers stacked on top of each other.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg/1920px-Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg",
+      "caption": "Hanok alley at blue hour"
+    },
+    {
+      "title": "Seoraksan National Park",
+      "description": "Granite spires over dense forest, and the first place in Korea to turn colour every autumn.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Seoraksan_National_Park_panorama_3.jpg/1920px-Seoraksan_National_Park_panorama_3.jpg",
+      "caption": "Granite peaks above pine forest"
+    },
+    {
+      "title": "Busan & Gamcheon",
+      "description": "A hillside of pastel houses above the sea, murals everywhere, and the biggest street-food markets in the country.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Colorful_houses_in_Gamcheon_Culture_Village_at_sunset_in_Busan_South_Korea.jpg/1920px-Colorful_houses_in_Gamcheon_Culture_Village_at_sunset_in_Busan_South_Korea.jpg",
+      "caption": "Gamcheon's pastel hillside houses"
+    }
+  ],
+  "natureHighlights": [
+    {
+      "title": "Ulsanbawi Ridge",
+      "description": "Seoraksan's signature hike — around 8 km return to a granite crest, with a long staircase at the end. Big commitment, bigger view.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Seoraksan_National_Park_Korea_13.jpg/1920px-Seoraksan_National_Park_Korea_13.jpg",
+      "caption": "Jagged granite ridge with pines"
+    },
+    {
+      "title": "Biseondae & Sinheungsa",
+      "description": "A valley walk past a giant bronze Buddha to a gorge full of smooth granite slabs.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Seoraksan_National_Park_Korea_21.jpg/1920px-Seoraksan_National_Park_Korea_21.jpg",
+      "caption": "Granite summit ridge, Seoraksan"
+    },
+    {
+      "title": "Dodamsambong, Danyang",
+      "description": "Three rock pinnacles standing in the Namhan river — the calm, green, water-and-mountain half of the trip.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Korea-Danyang-Dodamsambong_3087-07.JPG",
+      "caption": "Dodamsambong's three river pinnacles"
+    },
+    {
+      "title": "Sobaeksan National Park",
+      "description": "Rolling forested ridges with well-graded trails and hardly anyone else on them.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sobaeksan_National_Park%2C_South_Korea.jpg/1920px-Sobaeksan_National_Park%2C_South_Korea.jpg",
+      "caption": "Autumn colour on a forested ridge"
+    },
+    {
+      "title": "The East Coast Drive",
+      "description": "Pine forest on one side, open water on the other, for as long as you feel like driving.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pine_forest_in_Gangneung_1.jpg/1920px-Pine_forest_in_Gangneung_1.jpg",
+      "caption": "Pine forest path by the sea"
+    }
+  ],
+  "cityHighlights": [
+    {
+      "title": "Seoul",
+      "description": "Ten million people, mountains on three sides, and a skyline you can see whole from a hilltop park in the middle of it.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Seoul_Skyline_from_Namsan_%286907572103%29.jpg",
+      "caption": "Seoul skyline at sunset"
+    },
+    {
+      "title": "Sokcho",
+      "description": "A low-key harbour town with a beach and the mountains filling the western horizon.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Daepo_Port%2C_Sokcho_03.jpg/1920px-Daepo_Port%2C_Sokcho_03.jpg",
+      "caption": "Fishing boat at Daepo Port"
+    },
+    {
+      "title": "Gyeongju",
+      "description": "A thousand-year-old capital that is now a low-rise town scattered with grass burial mounds.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/GyeongjuBurialMounds.JPG/1920px-GyeongjuBurialMounds.JPG",
+      "caption": "Gyeongju's grass burial mounds"
+    },
+    {
+      "title": "Busan",
+      "description": "A port city built up the sides of steep hills, with a pastel-painted village on one of them and a temple on the sea cliffs.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Korea-Busan-Haeundae-Beach-08.jpg/1920px-Korea-Busan-Haeundae-Beach-08.jpg",
+      "caption": "Haeundae high-rises across the water"
+    },
+    {
+      "title": "Jeonju",
+      "description": "Seven hundred restored wooden hanok houses in one quarter, and a food culture the rest of the country defers to.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Jeonju_Hanok_Maeul_02.jpg/1920px-Jeonju_Hanok_Maeul_02.jpg",
+      "caption": "Hanok rooftops over Jeonju"
+    },
+    {
+      "title": "Danyang",
+      "description": "A small town wrapped around a bend in the Namhan river, with limestone peaks straight behind it.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Korea-Danyang-Dodamsambong_3105-07.JPG",
+      "caption": "River rocks below misty hills"
+    }
+  ],
+  "culinaryHighlights": [
+    {
+      "title": "Korean Fried Chicken",
+      "description": "Twice-fried, glazed or plain, ordered late at night and eaten straight out of the box. Reason enough for the flight.",
+      "image": "https://mykoreankitchen.com/wp-content/uploads/2017/10/3.-Spicy-Korean-Fried-Chicken.jpg",
+      "caption": "A plate of fried chicken"
+    },
+    {
+      "title": "Samgyeopsal",
+      "description": "Thick pork belly grilled at the table, wrapped in lettuce with garlic and sauce. The default Korean dinner, and a great one.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Korean.cuisine-Samgyeopsal-01.jpg/1920px-Korean.cuisine-Samgyeopsal-01.jpg",
+      "caption": "Pork belly grilling with garlic"
+    },
+    {
+      "title": "Tteokbokki & Street Snacks",
+      "description": "Chewy rice cakes in chilli sauce, fried skewers, egg bread and hotteok — the whole street-cart repertoire, everywhere, cheap.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Korean.snacks-Tteokbokki-08.jpg",
+      "caption": "Rice cakes in chilli sauce"
+    },
+    {
+      "title": "Jeonju Bibimbap",
+      "description": "The dish in the town that invented it — brass bowl, raw beef, thirty toppings, and a queue of Koreans who have driven here for it.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Korea-Jeonju-Bibimbap_festival-01.jpg",
+      "caption": "Chefs mixing bibimbap at a festival"
+    },
+    {
+      "title": "Kimchi",
+      "description": "Fermented cabbage with chilli and garlic, served free with absolutely every meal, and made in vast earthenware jars that sit outside houses.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Kimchi_jars.jpg",
+      "caption": "Rows of earthenware kimchi jars"
+    },
+    {
+      "title": "Hotteok & Bingsu",
+      "description": "Sweet syrup-filled pancakes fried on a griddle in winter, and mountains of shaved milk ice under fruit or red bean the rest of the year.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Hotteok_2.jpg/1920px-Hotteok_2.jpg",
+      "caption": "Hotteok frying on a griddle"
+    }
+  ],
+  "thingsToDo": [
+    {
+      "title": "A Day at the DMZ",
+      "description": "The Third Infiltration Tunnel, the Dora Observatory looking straight into North Korea, and the bridge where prisoners were exchanged.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Dora_Observatory%2C_Demilitarized_Zone_%28DMZ%29%2C_South_Korea_%282%29.jpg/1920px-Dora_Observatory%2C_Demilitarized_Zone_%28DMZ%29%2C_South_Korea_%282%29.jpg",
+      "caption": "View over the DMZ"
+    },
+    {
+      "title": "Namsan & the Hilltop Gym",
+      "description": "Walk or ride up Seoul's central mountain for the whole skyline, past one of the free open-air gyms that sit at the top of most Korean parks.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Namsan_Tower_%286907570553%29.jpg",
+      "caption": "Namsan tower at sunset"
+    },
+    {
+      "title": "Seoul Sky",
+      "description": "The observation deck on floors 117 to 123 of the Lotte World Tower, with a glass floor and the city laid out flat below.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Purple_sky_of_Seoul_and_Lotte_World_Tower.jpg/1920px-Purple_sky_of_Seoul_and_Lotte_World_Tower.jpg",
+      "caption": "Purple sunset over Seoul's skyline"
+    },
+    {
+      "title": "The Han River by Bike",
+      "description": "Hire a bike at any riverside park and ride a flat, continuous path right through the middle of the city, with convenience stores the whole way.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bicycles_along_Han_River_at_night_20240430191634.jpg/1920px-Bicycles_along_Han_River_at_night_20240430191634.jpg",
+      "caption": "Bikes by the river at night"
+    },
+    {
+      "title": "Gwangjang Market",
+      "description": "A covered market where hundreds of stalls each cook one dish in front of you — mung-bean pancakes, knife-cut noodles, rice rolls — eaten on plastic stools.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gwangjang_Market%2C_Seoul_02.jpg/1920px-Gwangjang_Market%2C_Seoul_02.jpg",
+      "caption": "Crowded market alley, flags overhead"
+    }
+  ],
+  "otherPerks": [
+    "Food is served until 2am, and a proper meal runs about eight euros",
+    "Jjimjilbang — 24-hour bathhouses with hot pools, saunas and sleeping rooms, for about ten euros",
+    "Seoraksan's colour is forecast to peak 12–15 October this year",
+    "Convenience stores are genuinely good — hot food, seating, open around the clock",
+    "One of the safest countries anywhere; nothing feels off, at any hour",
+    "More cafés per person than anywhere on earth, and the coffee is taken seriously",
+    "Underground malls, market halls and whole streets of hardware shops",
+    "KTX trains at 300 km/h, so dropping the car never strands you"
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "_notes": [
+    "Non-rendered field: destination facts and seasonality findings only. The app ignores keys it does not know. Planning rationale and open questions are kept outside the repo.",
+    "SEASONALITY (verified Aug 2026; re-checked 30 Aug 2026): October is the best month here and nothing shuts. Plitvice is open 365 days; October is shoulder pricing at roughly €23-23.50 per adult, and daily visitor caps mean October tickets DO sell out — book online in advance. Boardwalks, the Lake Kozjak boat and the shuttle trains all run.",
+    "SEASONALITY: white truffle season in Istria runs October to December, which is the actual peak reason to go in October. Zigante Truffle Days runs weekends 3 Oct - 1 Nov 2026 in Livade; Motovun's Teran and Truffle festival is 18-19 Oct; Livade's Tuber(food) Fest is 25-26 Oct.",
+    "MONTENEGRO: not included. Istria and the Bay of Kotor are at opposite ends of the country; Zagreb to Dubrovnik alone is 6h+, and doing Kotor and Durmitor properly needs 6-7 extra days. The workable version is a separate open-jaw — ZAG in, Dubrovnik (DBV) out — with Montenegro as a 7-day tail, pushing the trip past 18 days.",
+    "MONTENEGRO LOGISTICS (if added anyway): Croatian rental cars need prior written permission to cross, a Green Card, and a cross-border fee of roughly €25-95 per rental. Debeli Brijeg / Karasovici is the main crossing; Njivice / Konfin is quieter but sometimes closes without notice. Montenegro is outside the EU, so expect real border checks.",
+    "ROUTING: Zagreb (ZAG) in and out as a loop. Pula (PUY) is closer to Istria but is poorly connected internationally, and Zagreb earns two nights on its own merits — big market, Austro-Hungarian architecture, easy walking.",
+    "BASES: two separate Istrian bases (coastal Rovinj, inland Motovun) rather than one. They are only 45 minutes apart, but the coast and the truffle interior are genuinely different trips.",
+    "CARD CAPTIONS — PRIMARY (migrated 2026-08-30): Plitvice Lakes: Three nights; book online — October dates do sell out. | Coastal Istria: Three nights based at Rovinj. | Truffle Country: Three nights at Motovun, in the middle of the truffle woods.",
+    "CARD CAPTIONS — NATURE (migrated 2026-08-30): Veliki Slap: 78 m, at the lower-lakes entrance — busiest around midday. | The Upper Lakes Boardwalk: About 9 km, level throughout, and far emptier than the lower half. | Rastoke: Twenty minutes from the Plitvice gate; free to walk through. | The Istrian Coast: Warmest water of the year is behind you, but October still swims.",
+    "CARD CAPTIONS — CITIES (migrated 2026-08-30): Rovinj: Park outside the old town — it's pedestrian inside. | Zagreb: Two nights at the start and one at the end of the loop. | Pula: The arena is open daily and you can walk the floor. | Grožnjan: Tiny — an hour is plenty, best combined with Motovun. | Poreč: Forty minutes up the coast from Rovinj.",
+    "CARD CAPTIONS — FOOD (migrated 2026-08-30): White Truffles: White truffle runs October to December; sold and served by weight. | Fuži & Pljukanci: Fuži are rolled quills; pljukanci are hand-rolled spindles. | Boškarin Beef: A protected breed now; the meat is dark, lean and slow-cooked. | Dolac Market, Zagreb: Every morning from 7am, on the terrace above Ban Jelačić square. | Truffle Festival Weekends: Zigante in Livade runs the biggest; free to walk in.",
+    "CARD CAPTIONS — THINGS TO DO (migrated 2026-08-30): A Truffle Hunt in the Motovun Forest: Morning hunts from farms near Livade and Buzet; book a day ahead. | The Parenzana by E-Bike: E-bikes rent in Motovun and Grožnjan; pick a section and turn back. | Cape Kamenjak: Small entry fee per car; the tracks are rough but fine in a normal car. | Baredine Cave: Forty minutes, guided, near Poreč — 14°C inside. | Zagreb's Funicular & the Museum of Broken Relationships: The ride takes 64 seconds; the museum is genuinely worth the hour."
+  ],
+  "destination": "Croatia — Istria & Plitvice Lakes",
+  "title": "Truffles, Hill Towns & Waterfalls: An Istria and Plitvice Loop",
+  "heroImage": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Waterfalls_at_Plitvice_Lakes.jpg/1920px-Waterfalls_at_Plitvice_Lakes.jpg",
+    "caption": "Plitvice Lakes National Park",
+    "credit": "Wikimedia Commons"
+  },
+  "ideaImage": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Aerial_view_to_Motovun.jpg/1920px-Aerial_view_to_Motovun.jpg",
+    "caption": "Motovun, in the Istrian truffle country"
+  },
+  "theme": {
+    "bg": "#f2f2ec",
+    "ink": "#152a2c",
+    "dim": "#5a7274",
+    "line": "rgba(21,42,44,.16)",
+    "panel": "#fbfcf9",
+    "deep": "#123033",
+    "onDeep": "#e8ece7",
+    "accent": "#1d7f7a",
+    "mapLand": "#e2e3d8",
+    "mapLine": "rgba(21,42,44,.22)"
+  },
+  "brief": "October is the month Croatia is actually for. The summer crowds are gone, the coast is still warm, and inland Istria smells of white truffles. Venetian hill towns and painted harbour lanes, then a couple of hours east to a national park of turquoise lakes stacked in a forest, connected by waterfalls and 22 km of boardwalk.",
+  "vibe": "Hill towns and turquoise lakes",
+  "facts": {
+    "recommendedDurationDays": 13,
+    "flexibleRangeDays": "11-15",
+    "bestSeason": "October — prime shoulder season, white truffle season, everything still open",
+    "currency": "Euro (EUR)",
+    "language": "Croatian; excellent English, plus Italian throughout Istria",
+    "timezone": "Central European Time (UTC+2 until 25 October, then UTC+1)",
+    "arrivalAirport": "Zagreb (ZAG)",
+    "departureAirport": "Zagreb (ZAG)",
+    "driving": "Right-hand traffic, modern tolled motorways, easy signposted back roads"
+  },
+  "sections": {
+    "primary": {
+      "heading": "Truffles, then waterfalls",
+      "intro": "A week on the Istrian peninsula for hill towns and food, then a couple of hours east to the best forest-and-water landscape in Europe."
+    },
+    "nature": {
+      "heading": "Sixteen lakes, one long boardwalk",
+      "intro": "Plitvice is the reason to come — turquoise lakes spilling into each other down a wooded valley, crossed on 22 km of boardwalk laid straight over the water."
+    },
+    "cities": {
+      "heading": "Venetian coast, Venetian hills",
+      "intro": "Istria belonged to Venice for four centuries and still looks it — bell towers, loggias and shuttered stone, on the coast and on top of every inland hill."
+    },
+    "food": {
+      "heading": "Truffle season",
+      "intro": "Inland Istria cooks with truffle, ox and hand-rolled pasta. October is exactly when the white truffle comes out of the ground, and every village kitchen is showing off."
+    },
+    "why": {
+      "heading": "Why October is the entire point",
+      "intro": "The summer crowds have gone, the sea is still warm, and the one thing that only happens now is happening."
+    },
+    "thingsToDo": {
+      "heading": "Dogs, caves and a very short funicular",
+      "intro": "Istria is small enough that the good days out are all forty minutes apart — a truffle wood, a wild cape, a cave, and the strangest museum in Zagreb."
+    }
+  },
+  "itinerary": [
+    {
+      "days": "1",
+      "location": "Zagreb (arrival)",
+      "lat": 45.7429,
+      "lon": 16.0688,
+      "nights": 1,
+      "description": "Evening landing, airport hotel, and a fresh start in the morning."
+    },
+    {
+      "days": "2-3",
+      "location": "Zagreb",
+      "lat": 45.815,
+      "lon": 15.9819,
+      "nights": 2,
+      "description": "Austro-Hungarian streets, the Dolac open-air market above the main square, a funicular, and lots of green city parks."
+    },
+    {
+      "days": "4-6",
+      "location": "Motovun (inland Istria)",
+      "lat": 45.3367,
+      "lon": 13.828,
+      "nights": 3,
+      "description": "Hilltop villages above a forest of oak and truffle, an old railway turned walking trail, and the best food of the trip."
+    },
+    {
+      "days": "7-9",
+      "location": "Rovinj (Istrian coast)",
+      "lat": 45.081,
+      "lon": 13.6387,
+      "nights": 3,
+      "description": "A painted old town on a peninsula, cobbled lanes stacked up to a bell tower, and Pula's Roman arena down the road."
+    },
+    {
+      "days": "10-12",
+      "location": "Plitvice Lakes",
+      "lat": 44.8654,
+      "lon": 15.582,
+      "nights": 3,
+      "description": "Two full days on the boardwalks between sixteen terraced lakes, plus the watermill village of Rastoke nearby."
+    },
+    {
+      "days": "13",
+      "location": "Departure from Zagreb",
+      "lat": 45.7429,
+      "lon": 16.0688,
+      "nights": 0,
+      "description": "Two easy hours up the motorway to the airport, and home."
+    }
+  ],
+  "primaryHighlights": [
+    {
+      "title": "Plitvice Lakes",
+      "description": "Sixteen lakes falling into each other down a forested valley, crossed on wooden boardwalks that run right over the water.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Waterfall_in_plitvice_lakes_national_park%2C_croatia.jpg/1920px-Waterfall_in_plitvice_lakes_national_park%2C_croatia.jpg",
+      "caption": "Waterfall through the branches"
+    },
+    {
+      "title": "Coastal Istria",
+      "description": "Venice's old coastline without the Venice prices — Rovinj, Poreč and Pula, all warm and quiet in October.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Rovinj_Old_Town.jpg/1920px-Rovinj_Old_Town.jpg",
+      "caption": "Rovinj skyline from the water"
+    },
+    {
+      "title": "Truffle Country",
+      "description": "Hill towns above the Mirna valley, where October means white truffle season and every village kitchen is showing off.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Motovun.jpg",
+      "caption": "Motovun perched on its hill"
+    }
+  ],
+  "natureHighlights": [
+    {
+      "title": "Veliki Slap",
+      "description": "The 78-metre waterfall at the bottom of Plitvice — the one everyone photographs, and it deserves it.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/J32_078_Veliki_slap_mit_Aussichtspunkt.jpg/1920px-J32_078_Veliki_slap_mit_Aussichtspunkt.jpg",
+      "caption": "View over the falls and boardwalk"
+    },
+    {
+      "title": "The Upper Lakes Boardwalk",
+      "description": "Beech and fir closing over the water, with each lake stepping down into the next.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Plitvice_Lakes_Croatia.jpg/1920px-Plitvice_Lakes_Croatia.jpg",
+      "caption": "Waterfalls into a turquoise pool"
+    },
+    {
+      "title": "Rastoke",
+      "description": "A village built on top of waterfalls, with wooden watermills straddling the streams.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Rastoke%2C_Slunj%2C_Croatia%2C_waterfall.JPG",
+      "caption": "Waterfall beneath Rastoke's houses"
+    },
+    {
+      "title": "The Istrian Coast",
+      "description": "Low white limestone, pine right down to the waterline, and small coves you reach on foot rather than by road.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Pinizule_beach.jpg/1920px-Pinizule_beach.jpg",
+      "caption": "Swimmer in a rocky cove"
+    }
+  ],
+  "cityHighlights": [
+    {
+      "title": "Rovinj",
+      "description": "The best-looking town on the Adriatic — a tangle of lanes climbing a peninsula to a Venetian bell tower.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sunset_in_old_town_Rovinj_%288093140959%29.jpg/1920px-Sunset_in_old_town_Rovinj_%288093140959%29.jpg",
+      "caption": "Rovinj's old town at sunset"
+    },
+    {
+      "title": "Zagreb",
+      "description": "A properly liveable capital — grand 19th-century blocks, tram lines, big parks, and a huge daily produce market.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ban_Jelacic_Square_-_panoramio.jpg/1920px-Ban_Jelacic_Square_-_panoramio.jpg",
+      "caption": "Ban Jelačić Square, Zagreb"
+    },
+    {
+      "title": "Pula",
+      "description": "A working port city with an almost intact Roman amphitheatre standing in the middle of it.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Anfiteatro_de_Pula%2C_Croacia%2C_2017-04-17%2C_DD_13-18_HDR_PAN.jpg/1920px-Anfiteatro_de_Pula%2C_Croacia%2C_2017-04-17%2C_DD_13-18_HDR_PAN.jpg",
+      "caption": "Pula's Roman arena at dusk"
+    },
+    {
+      "title": "Grožnjan",
+      "description": "A tiny stone hill town full of artists' workshops, and a good stop on the drive between coast and interior.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Groznjan_Istria_church_tower.jpg/1920px-Groznjan_Istria_church_tower.jpg",
+      "caption": "Grožnjan's church bell tower"
+    },
+    {
+      "title": "Poreč",
+      "description": "A relaxed seaside town wrapped around a 6th-century basilica covered in gold mosaics.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Croatia_Porec_Euphrasius_Basilika_BW_2014-10-08_11-13-28.jpg/1920px-Croatia_Porec_Euphrasius_Basilika_BW_2014-10-08_11-13-28.jpg",
+      "caption": "Mosaic above the basilica entrance"
+    }
+  ],
+  "culinaryHighlights": [
+    {
+      "title": "Peka",
+      "description": "A dish made of meat, vegetables and/or potatoes, baked under curved metal lid.",
+      "image": "https://flawlessfood.co.uk/wp-content/uploads/2021/05/Croatian-Lamb-Peka-13.jpg",
+      "caption": "A complete meat Peka"
+    },
+    {
+      "title": "Fuži & Pljukanci",
+      "description": "Istria's two everyday pastas, served with truffle, game ragù or boškarin beef.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Pljukanci.jpg/1920px-Pljukanci.jpg",
+      "caption": "Pljukanci served with pršut"
+    },
+    {
+      "title": "Štrukli",
+      "description": "A cheese-fille­d pastry which is a Croatian comfort food staple­.",
+      "image": "https://i0.wp.com/passionspoon.com/wp-content/uploads/2018/07/P1160800.jpg",
+      "caption": "A plate of slow-braised beef"
+    },
+    {
+      "title": "Dolac Market, Zagreb",
+      "description": "Red umbrellas, mountains of produce, and a butchers' and bakers' hall underneath. The best browse in the country.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Dolac_01.JPG/1920px-Dolac_01.JPG",
+      "caption": "Red umbrellas over Dolac market"
+    },
+    {
+      "title": "Truffle Festival Weekends",
+      "description": "Livade and Motovun run open-air truffle festivals every October weekend. Truffles are much cheaper here than anywhere else.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Truffles_white_Croatia.jpg/1920px-Truffles_white_Croatia.jpg",
+      "caption": "White truffles on display"
+    }
+  ],
+  "thingsToDo": [
+    {
+      "title": "A Truffle Hunt in the Motovun Forest",
+      "description": "An hour in the oak woods along the Mirna with a dog that knows exactly what it is doing, followed by eating what it found.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Lagotto_Romagnolo-truffle_hunting.jpg",
+      "caption": "A Lagotto Romagnolo truffle dog"
+    },
+    {
+      "title": "The Parenzana by E-Bike",
+      "description": "A disused narrow-gauge railway turned gravel path, running through hill tunnels and over viaducts between Istrian villages.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Galleria_della_ex_ferrovia_Parenzana%2C_oggi_ciclabile.jpg/1920px-Galleria_della_ex_ferrovia_Parenzana%2C_oggi_ciclabile.jpg",
+      "caption": "Cyclists in a Parenzana tunnel"
+    },
+    {
+      "title": "Cape Kamenjak",
+      "description": "A wild protected headland at Istria's southern tip — white rock, dirt tracks, hidden coves and no development at all.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Kamenjak-coast.JPG",
+      "caption": "Swimmers below the cliffs at Kamenjak"
+    },
+    {
+      "title": "Baredine Cave",
+      "description": "Five chambers of stalactites 60 m down, on a lit spiral walkway, with an olive-oil and truffle shop at the surface.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Beredine_cave_-_12.JPG",
+      "caption": "A lit stalagmite inside Baredine"
+    },
+    {
+      "title": "Zagreb's Funicular & the Museum of Broken Relationships",
+      "description": "The world's shortest funicular railway, 66 m, and at the top a museum of objects left behind by failed romances.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Zagreb_-_Uspinja%C4%8Da_%2830594980327%29.jpg/1920px-Zagreb_-_Uspinja%C4%8Da_%2830594980327%29.jpg",
+      "caption": "Zagreb's blue funicular car"
+    }
+  ],
+  "otherPerks": [
+    "White truffle season peaks now — festivals in Livade and Motovun every weekend. Truffle costs a fraction here of what it does across the border in Italy",
+    "Possibilities for extending beyond Croatia, into Montenegro or Slovenia",
+    "The Adriatic is still swimmable in October, with the beaches to yourselves",
+    "Zagreb's Dolac market runs every morning under a field of red umbrellas",
+    "Euro, EU and English almost everywhere — no friction at any point",
+    "Fuel, food and stays all cost noticeably less than Italy or Austria",
+    "Small enough that nothing worth seeing is more than an hour off the route"
+  ]
+}

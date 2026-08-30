@@ -1,0 +1,287 @@
+{
+  "_notes": [
+    "Non-rendered field: destination facts and seasonality findings only. The app ignores keys it does not know. Planning rationale and open questions are kept outside the repo.",
+    "ROUTING: Rome Fiumicino (FCO) in and out. Pescara (PSR) is closer to the Adriatic end but is poorly connected internationally. The return leg from Vasto to FCO is ~3h on the A25/A24 — the longest single drive of the trip, still inside the 4-6h cap.",
+    "ROUTING: Rome itself is skipped beyond the airport — the mountains start 90 minutes east. Easy to add 2 nights in Rome at the end if wanted, since the route already returns there.",
+    "SEASONALITY (re-verified 30 Aug 2026): no alpine-resort shutdown pattern here — these are working hill towns, not ski resorts. BUT the Gran Sasso cable car is a real question mark. It reopened 15 June 2026 after cable replacement, and historically it takes its ordinary autumn maintenance break starting around 11 September — which would put it shut for an October visit. No 2026 autumn schedule was published as of 30 Aug. Ring Centro Turistico Gran Sasso (+39 0862 606143) before counting on it. Campo Imperatore is reachable by car on the SS17bis regardless, until the first real snow in November.",
+    "SEASONALITY: the high mountain roads (Campo Imperatore, Passo Godi, Passo San Leonardo, Blockhaus) are open in October but close on snow, typically from November. An early-October trip is comfortably clear; check ANAS before driving the highest ones.",
+    "TRAILS: hikes are chosen in the 8-12 km moderate range. Corno Grande's summit routes are exposed scrambles and are deliberately NOT in this itinerary.",
+    "PRACTICALITIES: this is the least-touristy destination in the collection. English is thin in the mountain interior and village supermarket hours are limited — Sulmona and Vasto are the reliable restock points.",
+    "CARD CAPTIONS — PRIMARY (migrated 2026-08-30): Gran Sasso & Campo Imperatore: Three nights based at Santo Stefano di Sessanio | Lago di Scanno & the Sagittario Gorge: Three nights at Sulmona, 40 minutes below the lake | The Majella: Three nights at Caramanico Terme, inside the park",
+    "CARD CAPTIONS — NATURE (migrated 2026-08-30): Campo Imperatore Plateau: Reachable by car on the SS17bis until the first snow, usually November | Gole del Sagittario: Slow driving — and an easy riverside trail at the base | Valle dell'Orfento, Majella: Free permit from the Caramanico visitor centre before you set off | Gole di Celano: About 11 km return; the walls narrow to a couple of metres | Abruzzo National Park & Civitella Alfedena: Dawn and dusk are when the wildlife is out",
+    "CARD CAPTIONS — CITIES (migrated 2026-08-30): Santo Stefano di Sessanio: Largely car-free — park below and walk in | Sulmona: Wednesday and Saturday market fills Piazza Garibaldi | Pacentro: Ten minutes from Sulmona — an hour is plenty | Vasto: Two nights at the end, on the Adriatic",
+    "CARD CAPTIONS — FOOD (migrated 2026-08-30): Arrosticini: Ordered by the dozen and eaten straight off the skewer | Confetti di Sulmona: Pelino has made them in Sulmona since 1783 | Maccheroni alla Chitarra: Cut on a wire frame called a chitarra — hence the name | Navelli Saffron: A gram costs less at source than a fraction of it does at home | Porchetta: Vans park at markets and motorway stops all the way to Rome",
+    "CARD CAPTIONS — THINGS TO DO (migrated 2026-08-30): The Gran Sasso Cable Car: Often shut for autumn maintenance from mid-September — ring ahead before relying on it | Grotte di Stiffe: Guided walk of about an hour; 10°C inside, bring a layer | The Navelli Saffron Harvest: The flowering lasts two or three weeks; farms sell direct at the roadside | Rocca Calascio at Sunset: Free and always open; go late for the light and the emptiness | Lunch on a Trabocco: Most close for the season in late October — book ahead"
+  ],
+  "destination": "Center-South Italy — Abruzzo's Mountains",
+  "title": "Wolves, Hill Towns & Arrosticini: Italy's Green Mountain Heart",
+  "heroImage": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Lago_di_Scanno_dji_mini_3_pro.jpg/1920px-Lago_di_Scanno_dji_mini_3_pro.jpg",
+    "caption": "Lago di Scanno, Abruzzo",
+    "credit": "Wikimedia Commons"
+  },
+  "ideaImage": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Rocca_Calascio_-_Fortezza_1_%282%29.jpg/1920px-Rocca_Calascio_-_Fortezza_1_%282%29.jpg",
+    "caption": "Rocca Calascio, the highest fortress in the Apennines"
+  },
+  "theme": {
+    "bg": "#f2f0ea",
+    "ink": "#1f2620",
+    "dim": "#636b60",
+    "line": "rgba(31,38,32,.16)",
+    "panel": "#fbfaf6",
+    "deep": "#1b2a20",
+    "onDeep": "#e9e8de",
+    "accent": "#b07a12",
+    "mapLand": "#e3e0d4",
+    "mapLine": "rgba(31,38,32,.22)"
+  },
+  "brief": "Ninety minutes east of Rome and almost nobody goes. Three national parks stacked together, beech forests that turn gold in October, stone villages clinging to hillsides, a heart-shaped lake, and food that is all lamb, saffron, pasta and mountain cheese. Wilder and greener than northern Italy, at maybe a third of the crowds.",
+  "vibe": "Wild, green, and nearly empty",
+  "facts": {
+    "recommendedDurationDays": 13,
+    "flexibleRangeDays": "11-15",
+    "bestSeason": "October — beech forests in full colour, mountain roads still open, villages still awake",
+    "currency": "Euro (EUR)",
+    "language": "Italian; very little English in the mountain interior",
+    "timezone": "Central European Time (UTC+2 until 25 October, then UTC+1)",
+    "arrivalAirport": "Rome Fiumicino (FCO)",
+    "departureAirport": "Rome Fiumicino (FCO)",
+    "driving": "Right-hand traffic, good motorways, narrow but well-surfaced mountain roads"
+  },
+  "sections": {
+    "primary": {
+      "heading": "The mountains nobody flies in for",
+      "intro": "Ninety minutes east of Rome: three national parks stacked against each other, a high plateau, and stone villages that have been where they are for a thousand years."
+    },
+    "nature": {
+      "heading": "Beech forest, gorges and a high plateau",
+      "intro": "The greenest part of central Italy and easily the wildest — bears and wolves still live here, and the beech woods turn gold right through October."
+    },
+    "cities": {
+      "heading": "Stone villages and one proper town",
+      "intro": "Most of these are hilltop hamlets you can cross in ten minutes. Sulmona is the exception: a real market town with a Roman aqueduct running down one side of the square."
+    },
+    "food": {
+      "heading": "Lamb, saffron and sugared almonds",
+      "intro": "Mountain cooking, done plainly. Skewered lamb by the dozen, pasta cut on a guitar-string frame, sheep's cheese, and the world's most expensive spice grown on the plateau above."
+    },
+    "why": {
+      "heading": "Why go east instead of north",
+      "intro": "Same country, a third of the crowds, and a landscape that is genuinely forested rather than farmed."
+    },
+    "thingsToDo": {
+      "heading": "Cable cars, caves and saffron",
+      "intro": "Small, specific things you can do on the day you feel like it — a cable car to a plateau, a river inside a mountain, a purple field being picked by hand."
+    }
+  },
+  "itinerary": [
+    {
+      "days": "1",
+      "location": "Rome Fiumicino (arrival)",
+      "lat": 41.8003,
+      "lon": 12.2389,
+      "nights": 1,
+      "description": "Land in the evening, sleep by the airport, and skip the city entirely in the morning."
+    },
+    {
+      "days": "2-4",
+      "location": "Santo Stefano di Sessanio (Gran Sasso)",
+      "lat": 42.34,
+      "lon": 13.645,
+      "nights": 3,
+      "description": "A restored stone village as a base, the vast Campo Imperatore plateau above it, and the ruined fortress at Rocca Calascio on the skyline."
+    },
+    {
+      "days": "5-7",
+      "location": "Sulmona & Lago di Scanno",
+      "lat": 42.048,
+      "lon": 13.928,
+      "nights": 3,
+      "description": "A handsome market town with a Roman aqueduct down one side, a gorge drive up to a heart-shaped lake, and wolves and bears in the park beyond."
+    },
+    {
+      "days": "8-10",
+      "location": "Caramanico Terme (Majella)",
+      "lat": 42.158,
+      "lon": 14.003,
+      "nights": 3,
+      "description": "Deep beech forest, a river gorge you walk right into, hermitages cut into cliffs, and the best hiking of the trip."
+    },
+    {
+      "days": "11-12",
+      "location": "Costa dei Trabocchi",
+      "lat": 42.112,
+      "lon": 14.708,
+      "nights": 2,
+      "description": "Down to the Adriatic for two easy days — fishing piers on stilts, a coastal cycle path on an old railway, and Vasto's old town."
+    },
+    {
+      "days": "13",
+      "location": "Departure from Rome Fiumicino",
+      "lat": 41.8003,
+      "lon": 12.2389,
+      "nights": 0,
+      "description": "Three hours back across the peninsula on the A25, and home."
+    }
+  ],
+  "primaryHighlights": [
+    {
+      "title": "Gran Sasso & Campo Imperatore",
+      "description": "Italy's \"Little Tibet\" — a 20 km high plateau under the tallest peak in the Apennines, with stone villages and a fortress on its edge.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Campo_Imperatore_with_il_Corno_Grande_in_the_background_-_Gran_Sasso_2.jpg/1920px-Campo_Imperatore_with_il_Corno_Grande_in_the_background_-_Gran_Sasso_2.jpg",
+      "caption": "Corno Grande above Campo Imperatore"
+    },
+    {
+      "title": "Lago di Scanno & the Sagittario Gorge",
+      "description": "A heart-shaped mountain lake at the end of a genuinely spectacular gorge road — one of the best short drives in Italy.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Lago_di_Scanno_dal_Sentiero_del_Cuore_03.jpg/1920px-Lago_di_Scanno_dal_Sentiero_del_Cuore_03.jpg",
+      "caption": "Heart-shaped Lago di Scanno from above"
+    },
+    {
+      "title": "The Majella",
+      "description": "The greenest, quietest national park in central Italy — beech forest, river gorges and hermitages carved into rock walls.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Maiella_da_montesilvano.jpg/1920px-Maiella_da_montesilvano.jpg",
+      "caption": "Snow-capped Majella seen from the hills"
+    }
+  ],
+  "natureHighlights": [
+    {
+      "title": "Campo Imperatore Plateau",
+      "description": "An enormous grassland plateau at 1,800 m with horses grazing on it — easy, flat walking with huge views in every direction.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Campo_Imperatore_-_Gran_Sasso_2.jpg/1920px-Campo_Imperatore_-_Gran_Sasso_2.jpg",
+      "caption": "Snow patches on Campo Imperatore's slopes"
+    },
+    {
+      "title": "Gole del Sagittario",
+      "description": "A limestone gorge so tight the road has to tunnel through it, with a river running at the bottom.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gole_del_Sagittario%2C_Riserva_Naturale.jpg/1920px-Gole_del_Sagittario%2C_Riserva_Naturale.jpg",
+      "caption": "Road along the Sagittario gorge lake"
+    },
+    {
+      "title": "Valle dell'Orfento, Majella",
+      "description": "The signature Majella walk — around 10 km through beech woods, following a clear river the whole way.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fiume_Orfento.jpg/1920px-Fiume_Orfento.jpg",
+      "caption": "The Orfento river inside its gorge"
+    },
+    {
+      "title": "Gole di Celano",
+      "description": "A slot canyon you walk straight up the middle of, with the rock closing in overhead.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gole_di_Celano_%284%29.jpg/1920px-Gole_di_Celano_%284%29.jpg",
+      "caption": "Narrow limestone gorge entrance"
+    },
+    {
+      "title": "Abruzzo National Park & Civitella Alfedena",
+      "description": "Europe's best chance of seeing wild wolves and Marsican bears, in the oldest and most forested park in the region.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Civitella_Alfedena.jpg/1920px-Civitella_Alfedena.jpg",
+      "caption": "Civitella Alfedena beneath the mountain"
+    }
+  ],
+  "cityHighlights": [
+    {
+      "title": "Santo Stefano di Sessanio",
+      "description": "A tiny medieval stone village at 1,250 m, carefully restored and very quiet.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Santo_Stefano_di_Sessanio_2008_by-RaBoe_01.jpg",
+      "caption": "Santo Stefano di Sessanio from below"
+    },
+    {
+      "title": "Sulmona",
+      "description": "The one proper town in the mountains — a long arcaded square, a Roman aqueduct, real shops, and the sugared-almond capital of Italy.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Sulmona_-_Piazza_Garibaldi.JPG/1920px-Sulmona_-_Piazza_Garibaldi.JPG",
+      "caption": "Piazza Garibaldi and the mountains behind"
+    },
+    {
+      "title": "Pacentro",
+      "description": "Three castle towers standing over a tight cluster of stone houses — the postcard Abruzzese village.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Pacentro_-_Chiesa_di_Santa_Maria_Maggiore_-_piazza_e_chiesa.jpg/1920px-Pacentro_-_Chiesa_di_Santa_Maria_Maggiore_-_piazza_e_chiesa.jpg",
+      "caption": "Church and fountain in Pacentro's piazza"
+    },
+    {
+      "title": "Vasto",
+      "description": "A bright old town on a bluff over the Adriatic — the relaxed, warm finish to a mountain trip.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Panorama_di_Vasto_%28CH%29_-_panoramio.jpg/1920px-Panorama_di_Vasto_%28CH%29_-_panoramio.jpg",
+      "caption": "Vasto's hillside skyline from the coast"
+    }
+  ],
+  "culinaryHighlights": [
+    {
+      "title": "Arrosticini",
+      "description": "Skewers of mountain lamb grilled over a long, narrow charcoal trough built for nothing else.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Arrosticini_abruzzesi_01.jpg/1920px-Arrosticini_abruzzesi_01.jpg",
+      "caption": "Raw lamb skewers ready for grilling"
+    },
+    {
+      "title": "Confetti di Sulmona",
+      "description": "Sugared almonds built into enormous flower bouquets, which is how the whole town sells them.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Confetti_Sulmona.JPG/1920px-Confetti_Sulmona.JPG",
+      "caption": "Sugared-almond flower bouquets on display"
+    },
+    {
+      "title": "Maccheroni alla Chitarra",
+      "description": "Square-cut pasta pressed through a guitar-string frame, served with lamb ragù. Local, cheap, everywhere.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Spaghetti_alla_chitarra_con_pallottine_%28Teramo%29.jpg/1920px-Spaghetti_alla_chitarra_con_pallottine_%28Teramo%29.jpg",
+      "caption": "Pasta with tomato and small meatballs"
+    },
+    {
+      "title": "Navelli Saffron",
+      "description": "The most expensive spice in the world, grown on the plateau above L'Aquila and sold in tiny glass jars at the farm gate.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Campi_di_zafferano.jpg",
+      "caption": "Farmer walking through the saffron fields"
+    },
+    {
+      "title": "Porchetta",
+      "description": "A whole pig boned, rolled with herbs and roasted overnight, then sliced into a bread roll from a van at the roadside. Central Italy's great street food.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Porchetta_%283168207946%29.jpg/1920px-Porchetta_%283168207946%29.jpg",
+      "caption": "Whole porchetta roast on a board"
+    },
+    {
+      "title": "Roman Pizza",
+      "description": "Square pizza with many different toppings, sold by weight.",
+      "image": "https://www.fromhometorome.com/wp-content/uploads/2024/09/Pizzeria_in_pala-1140x760.jpg",
+      "caption": "Pizzeria counter in Rome"
+    }
+    
+  ],
+  "thingsToDo": [
+    {
+      "title": "The Gran Sasso Cable Car",
+      "description": "Italy's oldest working cable car, built in 1934, lifting you 1,000 m from Fonte Cerreto onto the Campo Imperatore plateau in ten minutes.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Verso_Campo_Imperatore_-_panoramio.jpg/1920px-Verso_Campo_Imperatore_-_panoramio.jpg",
+      "caption": "Road across the Campo Imperatore plateau"
+    },
+    {
+      "title": "Grotte di Stiffe",
+      "description": "A cave system with a river still running through it — waterfalls, rapids and a lake, all underground, on a lit walkway.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Grotte_di_Stiffe_%287724423076%29.jpg/1920px-Grotte_di_Stiffe_%287724423076%29.jpg",
+      "caption": "Stalagmites inside Grotte di Stiffe"
+    },
+    {
+      "title": "The Navelli Saffron Harvest",
+      "description": "Late October is when the purple crocus fields above L'Aquila are picked, entirely by hand, at dawn.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Fioritura_zafferano_di_Navelli.jpg/1920px-Fioritura_zafferano_di_Navelli.jpg",
+      "caption": "A saffron crocus in close-up"
+    },
+    {
+      "title": "Rocca Calascio at Sunset",
+      "description": "A twenty-minute walk up to a ruined fortress on a bare ridge at 1,460 m, with the whole Gran Sasso behind it.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Castello_di_Rocca_Calascio_%2889629%29.jpg/1920px-Castello_di_Rocca_Calascio_%2889629%29.jpg",
+      "caption": "Rocca Calascio's towers at dusk"
+    },
+    {
+      "title": "Lunch on a Trabocco",
+      "description": "Eating on a wooden fishing pier built out over the Adriatic on stilts, with the water moving under the floorboards.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Trabocco_San_Vito_01.JPG/1920px-Trabocco_San_Vito_01.JPG",
+      "caption": "A trabocco pier over the sea"
+    }
+  ],
+  "otherPerks": [
+    "Arrosticini come by the dozen off a charcoal trough and cost almost nothing",
+    "Wolves and brown bears still live here — Civitella Alfedena is where to look",
+    "Saffron grows on the plateau, and sells at source for a fraction of the usual",
+    "Beech forests turn gold through October while the mountain roads stay open",
+    "Restaurant bills run about a third of what Tuscany charges",
+    "The Adriatic stays warm enough to swim into mid-October",
+    "No crowds and no tour buses at all",
+    "Ninety minutes from a major airport to genuine wilderness"
+  ]
+}

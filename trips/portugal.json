@@ -1,0 +1,315 @@
+{
+  "_notes": [
+    "Non-rendered field: destination facts and seasonality findings only. The app ignores keys it does not know. Planning rationale and open questions are kept outside the repo.",
+    "CARD CAPTIONS — PRIMARY (migrated 2026-08-30): Porto & the Douro Valley: Five nights between them, at the start of the trip | Lisbon & Sintra: Six nights, and the two are 30 minutes apart by motorway | São Miguel, Azores: Five nights, after a two-hour flight from Lisbon",
+    "CARD CAPTIONS — NATURE (migrated 2026-08-30): Douro Valley Vineyards: Harvest runs into October, so the terraces are busy and gold | Cabo da Roca & the Sintra Coast: Twenty minutes from Sintra; windy even in warm weather | Sete Cidades Twin Lakes: Cloud usually clears by late morning — go from Vista do Rei | Furnas Valley: The stew comes out of the ground around noon; order a day ahead | Lagoa do Fogo: The access road shuts in fog — check before driving up",
+    "CARD CAPTIONS — CITIES (migrated 2026-08-30): Porto: Ribeira and the iron bridge are ten minutes apart on foot | Lisbon: Built on seven hills — the trams and street lifts exist for a reason | Sintra: Go at opening; the palaces queue badly from about 11am | Ponta Delgada: Nothing on the island is more than an hour away | Coimbra: An easy stop halfway along the Porto–Lisbon drive | Óbidos: Directly on the Douro–Sintra drive; an hour is enough",
+    "CARD CAPTIONS — FOOD (migrated 2026-08-30): Pastel de Nata: Pastéis de Belém in Lisbon has baked them since 1837 | Francesinha: Café Santiago on Rua de Passos Manuel, serving them since 1959 | Bifana: Conga on Rua do Bonjardim — about €2.50, with a queue at lunchtime | Cozido das Furnas: Buried at dawn, dug up around noon — order a day ahead | São Jorge Cheese: Sold in every island supermarket; the aged wheels are the sharp ones | Travesseiros de Sintra: Piriquita on Rua das Padarias — expect a queue out the door",
+    "CARD CAPTIONS — THINGS TO DO (migrated 2026-08-30): Terra Nostra Thermal Pool: Open until 22:00; Poça da Dona Beija nearby runs even later | Ponta da Ferraria: Go within two hours of low tide or it is simply cold sea | Gorreana Tea Plantation: Free entry and free tea; no booking, just turn up | Whale & Dolphin Boats: Half-day trips from Ponta Delgada — the one thing worth booking ahead | Tram 28 & LX Factory: Board at Martim Moniz for a seat; LX Factory is busiest on Sundays | The Douro Historic Train: Runs weekends into October; the regular line runs daily and is nearly as good"
+  ],
+  "destination": "Portugal — Porto, Lisbon & the Azores",
+  "title": "Porto to Lisbon, then Volcanic São Miguel: A Portugal & Azores Road Trip",
+  "heroImage": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Seven_Cities_Lake_-_Azores_%28220320067%29.jpg",
+    "caption": "Sete Cidades twin crater lakes, São Miguel, Azores",
+    "credit": "Wikimedia Commons"
+  },
+  "ideaImage": {
+    "url": "https://media.bookmundi.com/files/uploads/bookmundi/resized/cms/azores-on-a-portugal-tour-1719561566-735X412.jpg",
+    "caption": "The Azores in Autumn"
+  },
+  "theme": {
+    "bg": "#f1efe9",
+    "ink": "#16232c",
+    "dim": "#5d6a72",
+    "line": "rgba(22,35,44,.16)",
+    "panel": "#fbfaf7",
+    "deep": "#12222a",
+    "onDeep": "#eceae3",
+    "accent": "#1f6f78",
+    "mapLand": "#e2ded1",
+    "mapLine": "rgba(22,35,44,.22)"
+  },
+  "brief": "Two and a half weeks that feel like two trips in one: charming riverside towns and hillside palaces across mainland Portugal, then a short flight to the Azores for green, volcanic scenery unlike anywhere else in Europe. Easy walking, pretty architecture, wonderful pastries, and views worth every photo.",
+  "vibe": "Coastal towns, volcanic islands",
+  "facts": {
+    "recommendedDurationDays": 18,
+    "flexibleRangeDays": "16-20",
+    "bestSeason": "Late September–early October, warm on the mainland and mild and green in the Azores",
+    "currency": "Euro (EUR)",
+    "language": "Portuguese; English widely spoken in tourist areas",
+    "timezone": "Western European Time (Azores is 1 hour behind mainland Portugal)",
+    "arrivalAirport": "Porto (OPO)",
+    "departureAirport": "Ponta Delgada (PDL), São Miguel",
+    "driving": "Right-hand traffic, good highways and scenic secondary roads",
+    "flightsWithinTrip": "One short flight partway through the trip, from Lisbon to Ponta Delgada"
+  },
+  "sections": {
+    "primary": {
+      "heading": "Mainland, then mid-Atlantic",
+      "intro": "Two trips in one. Riverside cities and hillside palaces first, then a short flight to a green volcanic island that looks nothing like the country you just left."
+    },
+    "nature": {
+      "heading": "Terraced valleys and crater lakes",
+      "intro": "The mainland's landscape is cultivated — vineyards stacked in terraces down to the river. The Azores' is raw: craters, steam vents and hillsides greener than southern Europe has any right to be."
+    },
+    "cities": {
+      "heading": "Tiled façades and hilltop old towns",
+      "intro": "Portuguese cities are built on hills and covered in patterned tile, which means viewpoints round every corner and something worth looking at on every wall."
+    },
+    "food": {
+      "heading": "Custard tarts and pork sandwiches",
+      "intro": "Eating here is cheap, savoury and done standing at a counter. The pastries alone would justify the flight."
+    },
+    "why": {
+      "heading": "Why this one keeps coming back up",
+      "intro": "Easy to travel, warm well into autumn, and it changes character completely halfway through without you having to work for it."
+    },
+    "thingsToDo": {
+      "heading": "Hot springs, tea fields and old trams",
+      "intro": "Most of what there is to do here you can decide on the morning of — a thermal pool, a tram, a boat. Only the whale trip really wants booking ahead."
+    }
+  },
+  "itinerary": [
+    {
+      "days": "1",
+      "location": "Porto (arrival)",
+      "lat": 41.2481,
+      "lon": -8.6814,
+      "nights": 1,
+      "description": "Land in the evening, sleep by the airport, and start fresh in the morning."
+    },
+    {
+      "days": "2-4",
+      "location": "Porto",
+      "lat": 41.1408,
+      "lon": -8.611,
+      "nights": 3,
+      "description": "Colourful riverside streets, the iron bridge, tiled churches, and a francesinha you will not finish."
+    },
+    {
+      "days": "5-6",
+      "location": "Douro Valley",
+      "lat": 41.19,
+      "lon": -7.545,
+      "nights": 2,
+      "description": "Terraced vineyards folding down to the river, at harvest, with a historic train running the gorge."
+    },
+    {
+      "days": "7-9",
+      "location": "Sintra",
+      "lat": 38.798,
+      "lon": -9.388,
+      "nights": 3,
+      "description": "Fairy-tale palaces in forested hills, Atlantic cliffs twenty minutes away, and pastries worth the queue."
+    },
+    {
+      "days": "10-12",
+      "location": "Lisbon",
+      "lat": 38.7223,
+      "lon": -9.1393,
+      "nights": 3,
+      "description": "Trams through Alfama, hilltop viewpoints, street art at LX Factory, and the best eating of the mainland."
+    },
+    {
+      "days": "13-14",
+      "location": "Ponta Delgada & Sete Cidades",
+      "lat": 37.7412,
+      "lon": -25.6756,
+      "nights": 2,
+      "description": "A short flight to a completely different Portugal — green, volcanic and quiet."
+    },
+    {
+      "days": "15-17",
+      "location": "Furnas",
+      "lat": 37.7717,
+      "lon": -25.3115,
+      "nights": 3,
+      "description": "Steaming ground, thermal pools you can sit in after dark, and a stew cooked in the earth."
+    },
+    {
+      "days": "18",
+      "location": "Departure from Ponta Delgada",
+      "lat": 37.7412,
+      "lon": -25.6756,
+      "nights": 0,
+      "description": "Fly home with a full memory card."
+    }
+  ],
+  "primaryHighlights": [
+    {
+      "title": "Porto & the Douro Valley",
+      "description": "Charming riverside streets in Porto, then a scenic drive through one of Europe's most beautiful vineyard valleys.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG/3840px-Puente_Don_Luis_I%2C_Oporto%2C_Portugal%2C_2012-05-09%2C_DD_13.JPG",
+      "caption": "Dom Luís I bridge over Porto"
+    },
+    {
+      "title": "Lisbon & Sintra",
+      "description": "Fairy-tale palaces and a hilly, colourful capital city, all within easy reach of each other.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sintra_-_Palacio_da_Pena_%2820332995770%29_%28cropped2%29.jpg/3840px-Sintra_-_Palacio_da_Pena_%2820332995770%29_%28cropped2%29.jpg",
+      "caption": "Pena Palace in Sintra"
+    },
+    {
+      "title": "São Miguel, Azores",
+      "description": "A short flight away, but a totally different world of crater lakes, hot springs and green hills.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Lagoa_Azul%2C_Sete_Cidades%2C_S%C3%A3o_Miguel%2C_Azores_%28A%C3%A7ores%29_Archipelago%2C_Portugal_%2849048229036%29.jpg",
+      "caption": "Misty lake at Sete Cidades"
+    }
+  ],
+  "natureHighlights": [
+    {
+      "title": "Douro Valley Vineyards",
+      "description": "Rolling terraced vineyards along the river — one of the prettiest drives in Europe.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Alto_Douro_Vinhateiro_visto_de_um_comboio.jpg",
+      "caption": "Terraced vineyards above the Douro"
+    },
+    {
+      "title": "Cabo da Roca & the Sintra Coast",
+      "description": "The westernmost point of mainland Europe — a lighthouse on a 140 m cliff, with empty surf beaches either side.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cliffs_at_Cabo_da_Roca%2C_Portugal%2C_20250606_1530_0295.jpg/1920px-Cliffs_at_Cabo_da_Roca%2C_Portugal%2C_20250606_1530_0295.jpg",
+      "caption": "Sea stack at Cabo da Roca"
+    },
+    {
+      "title": "Sete Cidades Twin Lakes",
+      "description": "The classic viewpoint over two lakes, one blue and one green, sitting side by side inside a giant volcanic crater.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Lagoa_das_Sete_Cidades%2C_Miradouro_da_vista_do_Rei%2C_Sete_Cidades%2C_Ponta_Delgada%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG",
+      "caption": "Twin lakes from Vista do Rei"
+    },
+    {
+      "title": "Furnas Valley",
+      "description": "Bubbling hot springs and steaming vents in a peaceful green valley.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/2012-10-14_11-52-18_Portugal_Azores_Senhora_da_Piedade.JPG",
+      "caption": "Lagoa das Furnas from above"
+    },
+    {
+      "title": "Lagoa do Fogo",
+      "description": "A striking crater lake viewpoint, perfect for a short scenic walk.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/A%C3%A7ores_lagoa_fogo-0140.tif/lossy-page1-1920px-A%C3%A7ores_lagoa_fogo-0140.tif.jpg",
+      "caption": "Lagoa do Fogo crater lake"
+    }
+  ],
+  "cityHighlights": [
+    {
+      "title": "Porto",
+      "description": "The colourful, stacked houses of Ribeira tumbling down to the riverfront — Porto's most photographed corner.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/A_wide_shot_of_the_Ribeira_district_in_Porto%2C_Portugal%2C_featuring_a_dense_collection_of_colourful_buildings_with_terracotta_roofs_cascading_down_a_hillside_towards_the_Douro_River_%2855248714034%29.jpg/1920px-thumbnail.jpg",
+      "caption": "Ribeira district across the Douro"
+    },
+    {
+      "title": "Lisbon",
+      "description": "The Belém Tower, standing right at the water's edge — one of the city's most iconic landmarks.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Bel%C3%A9m_Tower_in_Lisbon%2C_Portugal.jpg",
+      "caption": "Belém Tower at dusk"
+    },
+    {
+      "title": "Sintra",
+      "description": "The mysterious, moss-covered Quinta da Regaleira, with its hidden tunnels and spiral well.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Quinta_da_Regaleira%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_56.jpg/3840px-Quinta_da_Regaleira%2C_Sintra%2C_Portugal%2C_2019-05-25%2C_DD_56.jpg",
+      "caption": "Quinta da Regaleira palace"
+    },
+    {
+      "title": "Ponta Delgada",
+      "description": "A relaxed, pretty harbour town and the easygoing heart of the Azores.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Ayuntamiento%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-29%2C_DD_126-128_HDR.jpg/3840px-Ayuntamiento%2C_Ponta_Delgada%2C_isla_de_San_Miguel%2C_Azores%2C_Portugal%2C_2020-07-29%2C_DD_126-128_HDR.jpg",
+      "caption": "Ponta Delgada town hall at dusk"
+    },
+    {
+      "title": "Coimbra",
+      "description": "A charming riverside university town, worth a stop if you have a few extra days.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Coimbra_e_o_rio_Mondego_%286167200429%29_%28cropped%29.jpg",
+      "caption": "Coimbra skyline from the Mondego"
+    },
+    {
+      "title": "Óbidos",
+      "description": "A whitewashed village entirely inside its medieval walls, which you can walk right around above the rooftops.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Portugal_%28Obidos%29_The_entire_town_is_encircled_by_the_solid_city_walls_%2835878365352%29.jpg/1920px-Portugal_%28Obidos%29_The_entire_town_is_encircled_by_the_solid_city_walls_%2835878365352%29.jpg",
+      "caption": "Óbidos rooftops and town walls"
+    }
+  ],
+  "culinaryHighlights": [
+    {
+      "title": "Pastel de Nata",
+      "description": "Warm custard tarts, best enjoyed fresh from the oven — the trip's sweetest habit.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Pasteis_de_Belem.jpg",
+      "caption": "Custard tarts at Pastéis de Belém"
+    },
+    {
+      "title": "Francesinha",
+      "description": "Porto's indulgent meat-and-cheese sandwich, smothered in a rich sauce.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Francesinha_Sandwich_%28cropped%29.jpg",
+      "caption": "Francesinha with fried egg and sauce"
+    },
+    {
+      "title": "Bifana",
+      "description": "A simple, delicious pork sandwich found at cozy little spots everywhere.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Porto-style_Bifana_sandwich_with_egg.jpg",
+      "caption": "Bifana sandwich with cheese and egg"
+    },
+    {
+      "title": "Cozido das Furnas",
+      "description": "A hearty stew cooked underground by the earth's own heat — a true Azores original.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Cozido_das_Furnas_%2814740226390%29.jpg",
+      "caption": "Cozido das Furnas on the plate"
+    },
+    {
+      "title": "São Jorge Cheese",
+      "description": "A sharp, delicious Azorean cheese, great for picking up at a local market.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Queijo_S%C3%A3o_Jorge_inteiro.jpg",
+      "caption": "Wheel of São Jorge cheese"
+    },
+    {
+      "title": "Travesseiros de Sintra",
+      "description": "Warm almond-cream pastry pillows, made in the same Sintra bakery since 1862 and sold faster than they cool.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Travesseiro_de_Sintra_and_Queijada_de_Sintra_bakery_pastries_in_Sintra%2C_Portugal_%2855139884975%29.jpg/1920px-Travesseiro_de_Sintra_and_Queijada_de_Sintra_bakery_pastries_in_Sintra%2C_Portugal_%2855139884975%29.jpg",
+      "caption": "Travesseiro and queijada pastries"
+    }
+  ],
+  "thingsToDo": [
+    {
+      "title": "Terra Nostra Thermal Pool",
+      "description": "A huge ochre-orange pool of warm iron-rich water in the middle of a botanical garden. Bring a dark swimsuit — the iron stains.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/20220519.Parque_Terra_Nostra.-011.4.jpg/1920px-20220519.Parque_Terra_Nostra.-011.4.jpg",
+      "caption": "Swimmers in the ochre thermal pool"
+    },
+    {
+      "title": "Ponta da Ferraria",
+      "description": "Swim in the sea where a hot spring pours into a rock pool on the shoreline. The temperature depends entirely on the tide.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Miradouro_da_Ponta_da_Ferraria_ou_Miradouro_da_Ilha_Sabrina%2C_Ponta_da_Ferraria%2C_Ginetes%2C_Ponta_Delgada%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG/1920px-Miradouro_da_Ponta_da_Ferraria_ou_Miradouro_da_Ilha_Sabrina%2C_Ponta_da_Ferraria%2C_Ginetes%2C_Ponta_Delgada%2C_ilha_de_S%C3%A3o_Miguel%2C_A%C3%A7ores.JPG",
+      "caption": "Rocky coastline at Ponta da Ferraria"
+    },
+    {
+      "title": "Gorreana Tea Plantation",
+      "description": "The only tea plantation in Europe, working since 1883. You walk in free, wander the machinery floor, and drink as much as you like.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Gorreana_Tea_Plantation_kz01.jpg/1920px-Gorreana_Tea_Plantation_kz01.jpg",
+      "caption": "Tea rows at Gorreana plantation"
+    },
+    {
+      "title": "Whale & Dolphin Boats",
+      "description": "Sperm whales and several dolphin species sit off São Miguel year-round, and the boats still run through October.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Sao_Miguel_Whale_Watching.jpg",
+      "caption": "Dolphins off São Miguel"
+    },
+    {
+      "title": "Tram 28 & LX Factory",
+      "description": "Ride the old wooden tram up through Alfama, then spend an afternoon in a converted industrial yard full of street art and shops.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Tram_on_line_28_passing_through_a_street_in_Alfama%2C_Lisbon.jpg",
+      "caption": "Lisbon tram in a narrow street"
+    },
+    {
+      "title": "The Douro Historic Train",
+      "description": "A steam-hauled train along the river gorge between Régua and Tua, on one of the prettiest rail lines in Europe.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Tren_Hist%C3%B3rico_del_Duero_en_Pinh%C3%A3o_%2853245199586%29.jpg/1920px-Tren_Hist%C3%B3rico_del_Duero_en_Pinh%C3%A3o_%2853245199586%29.jpg",
+      "caption": "Vintage train at a Douro station"
+    }
+  ],
+  "otherPerks": [
+    "Thermal pools you can sit in after dark, for about ten euros",
+    "Custard tarts still warm from the oven, more or less everywhere, for a euro",
+    "The sea is still swimmable in October on both the mainland and the islands",
+    "Trams and hillside lifts do Lisbon's climbing for you",
+    "Azulejo tilework and street art on ordinary buildings, not just the monuments",
+    "One of the cheapest countries in western Europe to eat and drive in",
+    "English almost everywhere, and motorways that are new and empty",
+    "Two hours of flying turns a city trip into an island one"
+  ]
+}

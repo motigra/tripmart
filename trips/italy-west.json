@@ -1,0 +1,298 @@
+{
+  "_notes": [
+    "Non-rendered field: destination facts and seasonality findings only. The app ignores keys it does not know. Planning rationale and open questions are kept outside the repo.",
+    "ROUTING: built as a Milan Malpensa (MXP) loop rather than a Turin (TRN) open-jaw. Malpensa to Stresa is ~50 min and Genoa back to Malpensa ~2h30, so MXP works as both bookends.",
+    "SEASONALITY (verified Aug 2026; re-checked 30 Aug 2026): low risk. This is not ski-resort infrastructure. Isola Bella and Isola Madre run 12 Mar - 8 Nov 2026 (last entry moves to 16:00 from 25 Oct), so an early/mid-October visit is fully open.",
+    "SEASONALITY: Gran Paradiso trails are snow-free roughly May-October and autumn is a recommended window. BUT trails in the Valnontey valley are still closed or damaged from the 2024 flood, so this itinerary routes the day hike up the Gimillan side and to the Lillaz waterfalls instead. Re-check with the park before the trip.",
+    "LOGISTICS: Cinque Terre is done as a rail day trip from Genoa (Brignole to Monterosso ~1h20-1h40), not by car. The villages are effectively closed to cars and parking is miserable.",
+    "LOGISTICS: Alba is scoped around the International White Truffle Fair (runs Oct-Dec) as a market and food-town day rather than a fine-dining destination.",
+    "FLEX: 14 days is the sweet spot. If cut to 12, drop Alba and give those nights to Genoa.",
+    "CARD CAPTIONS — PRIMARY (migrated 2026-08-30): Lake Maggiore & the Borromean Islands: Three nights at Stresa; boats run all day from the promenade. | Turin: Porta Palazzo, Europe's biggest open-air market, runs mornings. | The Cinque Terre & the Ligurian Coast: Reached by train from Genoa — three nights on the coast.",
+    "CARD CAPTIONS — NATURE (migrated 2026-08-30): Lake Orta & Isola San Giulio: Ten-minute boat from Orta San Giulio, runs all year. | Gran Paradiso & the Cogne Valley: Valnontey trails still shut after the 2024 flood — go via Gimillan. | Monte di Portofino: San Fruttuoso is a 2h walk from Portofino, or ten minutes by boat. | The Langhe Hills: Best on the back roads between Alba, Barolo and La Morra.",
+    "CARD CAPTIONS — CITIES (migrated 2026-08-30): Turin: Porta Palazzo, Europe's biggest open-air market, runs mornings. | Genoa: The caruggi are too narrow to drive — park once and walk. | Stresa: Boats to all three islands leave from the lakefront. | Alba: The truffle fair takes over the centre at weekends, October to December. | Orta San Giulio: An hour from Stresa; the centre is closed to cars. | The Cinque Terre Villages: One train line links all five; a day pass covers unlimited hops.",
+    "CARD CAPTIONS — FOOD (migrated 2026-08-30): Focaccia Genovese: Bought by weight at a bakery counter — best before 11am. | Trofie al Pesto: The pesto is never cooked, so it arrives within minutes. | Agnolotti del Plin: Traditionally served in a folded napkin with no sauce at all. | Gianduiotti & Bicerin: Caffè Al Bicerin by Piazza della Consolata has poured it since 1763. | Farinata: Sold by the slice from mid-morning; ask for it ben cotta. | Bagna Càuda: A winter dish that starts in October; usually ordered for the table.",
+    "CARD CAPTIONS — THINGS TO DO (migrated 2026-08-30): La Pista 500: Free to walk; the Pinacoteca gallery on the same roof is ticketed. | National Automobile Museum: In Turin, ten minutes from Lingotto — easy to pair with the rooftop. | Mottarone Cable Car: Runs year-round; the Alpyland toboggan runs in dry weather. | A Truffle Hunt: Morning hunts from farms around Alba; book a day or two ahead. | Sacra di San Michele: An hour from Turin, then a 15-minute climb from the car park. | The Borromean Island Gardens: Open to 8 November 2026; hop-on boats run all day from Stresa."
+  ],
+  "destination": "West Italy — Turin, Genoa & Lake Maggiore",
+  "title": "Lakes, Arcades & Focaccia: A Piedmont and Liguria Road Trip",
+  "heroImage": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Isola_Bella_%28Lago_Maggiore-Isole_Borromee%29_101.jpg/1920px-Isola_Bella_%28Lago_Maggiore-Isole_Borromee%29_101.jpg",
+    "caption": "Isola Bella, Lake Maggiore",
+    "credit": "Wikimedia Commons"
+  },
+  "ideaImage": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Vineyards_in_Langhe.jpg/1920px-Vineyards_in_Langhe.jpg",
+    "caption": "Autumn in the Langhe hills"
+  },
+  "theme": {
+    "bg": "#f4f0e6",
+    "ink": "#2a2118",
+    "dim": "#6f6250",
+    "line": "rgba(42,33,24,.16)",
+    "panel": "#fcfaf3",
+    "deep": "#23301f",
+    "onDeep": "#ece7d8",
+    "accent": "#7a3b20",
+    "mapLand": "#e6dfcd",
+    "mapLine": "rgba(42,33,24,.22)"
+  },
+  "brief": "The relaxed half of northern Italy. Gardens and island palaces on Lake Maggiore, Turin's grand arcaded squares and chocolate cafés, the hazelnut hills of the Langhe at peak truffle season, and Genoa's tall, narrow old town where focaccia is a way of life. Short, pretty drives the whole way.",
+  "vibe": "Relaxed drives and old towns",
+  "facts": {
+    "recommendedDurationDays": 14,
+    "flexibleRangeDays": "12-16",
+    "bestSeason": "Early–mid October — warm, fully open, and peak truffle and hazelnut season",
+    "currency": "Euro (EUR)",
+    "language": "Italian; English is patchy once you leave Turin and Genoa",
+    "timezone": "Central European Time (UTC+2 until 25 October, then UTC+1)",
+    "arrivalAirport": "Milan Malpensa (MXP)",
+    "departureAirport": "Milan Malpensa (MXP)",
+    "driving": "Right-hand traffic, excellent autostrade, gentle lake and hill roads"
+  },
+  "sections": {
+    "primary": {
+      "heading": "Lake, city, hills, coast",
+      "intro": "Four completely different Italies inside two weeks, and never more than three hours of driving between any two of them."
+    },
+    "nature": {
+      "heading": "Alpine valleys and a cliff coastline",
+      "intro": "The real landscape sits at the two ends of this trip — a genuine Alpine valley north of Turin, and a coastline where the hills fall straight into the sea. The lake gardens are lovely, but they are gardens."
+    },
+    "cities": {
+      "heading": "Arcades, caruggi and lake promenades",
+      "intro": "Turin is grand and geometric, Genoa is a vertical maze you get lost in on purpose, and the lake towns are all belle-époque hotels and boat jetties."
+    },
+    "food": {
+      "heading": "Butter, hazelnuts and very good bread",
+      "intro": "Piedmont cooks rich and slow, Liguria cooks with basil and olive oil. Between them, the two best food regions in Italy that nobody flies in for."
+    },
+    "why": {
+      "heading": "The case for the quieter half of the north",
+      "intro": "Everything is open, nothing is crowded, and the cooking beats the places people actually queue for."
+    },
+    "thingsToDo": {
+      "heading": "Rooftop racetracks and truffle dogs",
+      "intro": "Piedmont hides some genuinely strange things — a test track on a factory roof, a cable car to an alpine coaster, a dog that finds you lunch."
+    }
+  },
+  "itinerary": [
+    {
+      "days": "1",
+      "location": "Milan Malpensa (arrival)",
+      "lat": 45.6306,
+      "lon": 8.7281,
+      "nights": 1,
+      "description": "Evening landing, airport hotel, and a fresh start in the morning — the lake is under an hour away."
+    },
+    {
+      "days": "2-4",
+      "location": "Lake Maggiore (Stresa)",
+      "lat": 45.885,
+      "lon": 8.53,
+      "nights": 3,
+      "description": "Boat out to the Borromean islands, wander Villa Taranto's gardens, and take a quiet half-day at Lake Orta next door."
+    },
+    {
+      "days": "5-7",
+      "location": "Turin",
+      "lat": 45.0703,
+      "lon": 7.6869,
+      "nights": 3,
+      "description": "Grand arcaded squares, the Mole on the skyline, the enormous Porta Palazzo market, and hot chocolate you eat with a spoon."
+    },
+    {
+      "days": "8-10",
+      "location": "Alba & the Langhe",
+      "lat": 44.7009,
+      "lon": 8.0355,
+      "nights": 3,
+      "description": "Rolling hazelnut and vine hills, the white truffle fair in full swing, and small-town Piedmontese cooking at its best."
+    },
+    {
+      "days": "11-13",
+      "location": "Genoa",
+      "lat": 44.4056,
+      "lon": 8.9463,
+      "nights": 3,
+      "description": "A tall, tangled old town, focaccia at every corner, the painted seaside of Boccadasse, and a train day out to the Cinque Terre."
+    },
+    {
+      "days": "14",
+      "location": "Departure from Milan Malpensa",
+      "lat": 45.6306,
+      "lon": 8.7281,
+      "nights": 0,
+      "description": "An easy two and a half hours back up the motorway, and home."
+    }
+  ],
+  "primaryHighlights": [
+    {
+      "title": "Lake Maggiore & the Borromean Islands",
+      "description": "Terraced island gardens and a palace sitting in the middle of the water, reached by a ten-minute boat ride.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Isola_Bella_%28Lago_Maggiore-Isole_Borromee%29_100.jpg/1920px-Isola_Bella_%28Lago_Maggiore-Isole_Borromee%29_100.jpg",
+      "caption": "Isola Bella's terraced garden"
+    },
+    {
+      "title": "Turin",
+      "description": "Italy's most underrated big city — eighteen kilometres of arcades, café culture, and food that beats the tourist towns.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Torino_-_Piazza_San_Carlo_-_1.jpg/1920px-Torino_-_Piazza_San_Carlo_-_1.jpg",
+      "caption": "Piazza San Carlo's equestrian statue"
+    },
+    {
+      "title": "The Cinque Terre & the Ligurian Coast",
+      "description": "Five painted villages stacked above the sea, linked by cliff paths and a train — plus Genoa, a vertical maze of a port city, as the base.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Manarola_NW_Cinque_Terre_Sep23_A7C_07233.jpg/1920px-Manarola_NW_Cinque_Terre_Sep23_A7C_07233.jpg",
+      "caption": "Manarola perched above the sea"
+    }
+  ],
+  "natureHighlights": [
+    {
+      "title": "Lake Orta & Isola San Giulio",
+      "description": "The quiet little sister lake next door — no crowds, no ferry queues, just a tiny island and a lakeside promenade.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Lago_d%27Orta_-_Isola_di_San_Giulio.jpg/1920px-Lago_d%27Orta_-_Isola_di_San_Giulio.jpg",
+      "caption": "Isola San Giulio from the water"
+    },
+    {
+      "title": "Gran Paradiso & the Cogne Valley",
+      "description": "A day trip into real Alps — a 10 km walk up from Gimillan with ibex and marmots, and the Lillaz waterfalls on the way back.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bergtocht_van_Gimillan_%281805m.%29_naar_Colle_Tsa_S%C3%A8tse_in_Cogne_Valley_%28Itali%C3%AB%29._Zicht_op_de_omringende_alpentoppen_van_Gran_Paradiso_01.jpg/1920px-Bergtocht_van_Gimillan_%281805m.%29_naar_Colle_Tsa_S%C3%A8tse_in_Cogne_Valley_%28Itali%C3%AB%29._Zicht_op_de_omringende_alpentoppen_van_Gran_Paradiso_01.jpg",
+      "caption": "Peaks rising above the cloud line"
+    },
+    {
+      "title": "Monte di Portofino",
+      "description": "A headland of holm oak and pine dropping straight into the sea, with a coast path to an abbey you can only reach on foot or by boat.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Monte_Campana_dal_sentiero_tra_Batterie_e_San_Fruttuoso.jpg/1920px-Monte_Campana_dal_sentiero_tra_Batterie_e_San_Fruttuoso.jpg",
+      "caption": "Trail along the Portofino headland"
+    },
+    {
+      "title": "The Langhe Hills",
+      "description": "Rows of vine and hazelnut folding over each other to the horizon, with a castle village on every ridge.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Piemonte%2C_Italy_%285885193979%29.jpg/1920px-Piemonte%2C_Italy_%285885193979%29.jpg",
+      "caption": "Vineyard rows across the Langhe"
+    }
+  ],
+  "cityHighlights": [
+    {
+      "title": "Turin",
+      "description": "The Mole Antonelliana standing over a city of grand boulevards, covered arcades and old chocolate houses.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Mole_Antonelliana_di_sera.jpg/1920px-Mole_Antonelliana_di_sera.jpg",
+      "caption": "The Mole Antonelliana at dusk"
+    },
+    {
+      "title": "Genoa",
+      "description": "A reborn old harbour front, and behind it the caruggi — Europe's densest medieval old town, full of tiny food shops.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Porto_Antico_Genova_varie_05.jpg/1920px-Porto_Antico_Genova_varie_05.jpg",
+      "caption": "Porto Antico at dusk"
+    },
+    {
+      "title": "Stresa",
+      "description": "A gentle belle-époque lakeside town — the easiest possible base for the islands and the cable car up Mottarone.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Stresa_Lago_Maggiore.JPG/1920px-Stresa_Lago_Maggiore.JPG",
+      "caption": "Stresa's rooftops above the lake"
+    },
+    {
+      "title": "Alba",
+      "description": "A handsome brick hill town that turns into one giant food market every autumn weekend.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Alba_Piazza_Duomo_1.jpg/1920px-Alba_Piazza_Duomo_1.jpg",
+      "caption": "Alba's brick cathedral"
+    },
+    {
+      "title": "Orta San Giulio",
+      "description": "A cobbled village on a quiet lake, facing an island monastery a ten-minute boat ride offshore.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Lago_d%27Orta%2C_Sicht_auf_Isola_San_Giulio_-_panoramio.jpg/1920px-Lago_d%27Orta%2C_Sicht_auf_Isola_San_Giulio_-_panoramio.jpg",
+      "caption": "Lake Orta and its wooded shore"
+    },
+    {
+      "title": "The Cinque Terre Villages",
+      "description": "Monterosso, Vernazza, Corniglia, Manarola and Riomaggiore — five villages wedged into a cliff coastline, all car-free.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Vernazza_dal_Sentiero_Azzurro.jpg/1920px-Vernazza_dal_Sentiero_Azzurro.jpg",
+      "caption": "Vernazza's harbour and castle tower"
+    }
+  ],
+  "culinaryHighlights": [
+    {
+      "title": "Focaccia Genovese",
+      "description": "Genoa's whole personality in bread form — dimpled, glossy with oil, and salty enough to keep you drinking water.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Focaccia_Genovese_02.jpg/1920px-Focaccia_Genovese_02.jpg",
+      "caption": "Focaccia sliced and wrapped"
+    },
+    {
+      "title": "Trofie al Pesto",
+      "description": "The original basil pesto, on stubby hand-rolled pasta with potato and green beans through it.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Trofie_al_pesto.jpg/1920px-Trofie_al_pesto.jpg",
+      "caption": "Trofie with pesto, beans and potato"
+    },
+    {
+      "title": "Agnolotti del Plin",
+      "description": "Tiny pinched meat ravioli, Piedmont's answer to comfort food, served in butter or a roast gravy.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Agnolotti_al_plin.JPG/1920px-Agnolotti_al_plin.JPG",
+      "caption": "Agnolotti del plin, plated"
+    },
+    {
+      "title": "Gianduiotti & Bicerin",
+      "description": "Turin invented hazelnut chocolate. The historic cafés also pour a layered chocolate-coffee-cream drink — no alcohol required.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gianduiotti.jpg/1920px-Gianduiotti.jpg",
+      "caption": "Two ingot-shaped gianduiotti"
+    },
+    {
+      "title": "Farinata",
+      "description": "A hot chickpea pancake baked flat in a copper pan over a wood fire, crisp at the edges and creamy in the middle.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/La_Farinata_di_ceci.jpg",
+      "caption": "Farinata sliced into wedges"
+    },
+    {
+      "title": "Bagna Càuda",
+      "description": "A hot bath of garlic, oil and anchovy kept bubbling in the middle of the table, with raw and roasted vegetables to dip in it. Piedmont's autumn ritual.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Bagna_c%C3%A0uda_dip.jpg",
+      "caption": "Raw vegetables with warm dip"
+    }
+  ],
+  "thingsToDo": [
+    {
+      "title": "La Pista 500",
+      "description": "The old FIAT factory's rooftop test track, banked curves and all, now a garden you can walk a full lap of, 28 m above Turin.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Fiat_Lingotto_Rooftop_Racetrack_1.jpg/1920px-Fiat_Lingotto_Rooftop_Racetrack_1.jpg",
+      "caption": "The Lingotto rooftop test track"
+    },
+    {
+      "title": "National Automobile Museum",
+      "description": "One of the oldest car museums in the world, and among the best laid out — a century of Italian design in one building.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Museo_Nazionale_dell%27Automobile_di_Torino_04.jpg/1920px-Museo_Nazionale_dell%27Automobile_di_Torino_04.jpg",
+      "caption": "Sports cars inside the museum hall"
+    },
+    {
+      "title": "Mottarone Cable Car",
+      "description": "Twenty minutes from the Stresa lakefront to a 1,491 m summit with both Maggiore and Orta below you, and an alpine coaster at the top.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Stresa-Alpino-Mottarone_Sv%C3%A6vebane.JPG/1920px-Stresa-Alpino-Mottarone_Sv%C3%A6vebane.JPG",
+      "caption": "Cable car above Lake Maggiore"
+    },
+    {
+      "title": "A Truffle Hunt",
+      "description": "An hour in the woods behind a Lagotto Romagnolo while it digs up something worth more per gram than silver. Then you eat it.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Lagotto_Romagnolo.jpg",
+      "caption": "A Lagotto Romagnolo, the truffle dog"
+    },
+    {
+      "title": "Sacra di San Michele",
+      "description": "An abbey built onto a rock spike 1,000 m above the Susa valley, reached by a steep staircase cut into the stone.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Sacra_San_Michele_Abbazia_20-3-2022.jpg",
+      "caption": "Sacra di San Michele's stone tower"
+    },
+    {
+      "title": "The Borromean Island Gardens",
+      "description": "Ten stacked terraces of baroque garden rising out of the lake on Isola Bella, white peacocks included, and a botanical park at Villa Taranto across the water.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Isola_Bella_%28Lago_Maggiore-Isole_Borromee%29_110.jpg/1920px-Isola_Bella_%28Lago_Maggiore-Isole_Borromee%29_110.jpg",
+      "caption": "Isola Bella's tiered baroque garden"
+    }
+  ],
+  "otherPerks": [
+    "White truffle season at its peak — Alba's fair runs every autumn weekend",
+    "Focaccia counts as breakfast here, and costs about a euro",
+    "Turin has eighteen kilometres of covered arcades; it can rain and you won't notice",
+    "Solid chocolate was invented in Turin, and the old cafés still make it by hand",
+    "Serravalle's outlets sit directly on the drive between Turin and Genoa",
+    "Barely any other foreign visitors once you are away from the lakefront",
+    "Hazelnuts, chocolate and cheese that all travel home well",
+    "Four completely different landscapes inside three hours of driving"
+  ]
+}

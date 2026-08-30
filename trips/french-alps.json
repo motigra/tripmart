@@ -1,0 +1,298 @@
+{
+  "_notes": [
+    "Non-rendered field: destination facts and seasonality findings only. The app ignores keys it does not know. Planning rationale and open questions are kept outside the repo.",
+    "SEASONALITY — LIFTS (re-checked 30 Aug 2026 against the Chamonix valley 2026 summer schedule): Aiguille du Midi, the Montenvers / Mer de Glace train and Brévent all run to 1 NOVEMBER 2026, then close for maintenance until mid-December. La Flégère closes 13 SEPTEMBER and Le Tour / Balme closes 20 SEPTEMBER. So the three headline lifts are safe for all of October, but the Flégère side of the valley — including the usual lift-assisted approach to Lac Blanc — is already shut. Lac Blanc in October is a full walk-up from Les Praz, roughly 12 km round trip with 1,100 m of climb: doable but hard. The easier October alternatives are Lac Cornu, the Petit Balcon Sud, and the Mer de Glace via the train.",
+    "SEASONALITY — PASSES: Col de l'Iseran and Col du Galibier normally stay open into November but are weather-closed from mid-October in bad years (both shut on 20 October in 2025). This itinerary deliberately does NOT route over them — they sit in the Maurienne, east of the route, and are a detour, not a necessity.",
+    "FALLBACK ROUTES (all low-altitude, open year-round): Col des Aravis and Col de la Colombière between Chamonix and Annecy; the Route des Gorges / Combe Laval and Grands Goulets balcony roads in the Vercors; and the Pierres Dorées lanes in Beaujolais. If a high pass shuts, nothing in the plan breaks.",
+    "ROUTING: Geneva (GVA, 1h to Chamonix) in, Lyon (LYS) out. One-way rental across the Swiss-French border is normal but confirm the drop fee; renting on the French side of GVA avoids the Swiss motorway vignette.",
+    "ROUTING: the Luberon was considered and dropped in favour of Beaujolais and Lyon. The Luberon is another 3h south of Grenoble and would break the driving budget on a 14-day trip; Beaujolais gives the same market-and-food finish 1h from the departure airport.",
+    "TIMING: if the trip lands in late October rather than early, add a buffer day in Chamonix — the Aiguille du Midi is frequently wind-held, and there is no second chance after 1 November.",
+    "CARD CAPTIONS — PRIMARY (migrated 2026-08-30): Chamonix & Mont Blanc: Three nights; the three main lifts run to 1 November 2026. | Annecy & Its Lake: Three nights, with the lake a five-minute walk from the old town. | The Vercors Balcony Roads: Three nights based at Villard-de-Lans.",
+    "CARD CAPTIONS — NATURE (migrated 2026-08-30): Mer de Glace: Montenvers railway runs to 1 November 2026. | Lac Blanc: Flégère lift shuts 13 September, so from October it's a 12 km walk-up. | Cirque de Saint-Même: Easy 6 km loop; the car park fills at weekends. | The Vercors Plateau: Low enough to stay clear long after the high Alps have snow. | Lake Annecy Shore Path: Flat and paved for 33 km; bikes rent by the hour in town.",
+    "CARD CAPTIONS — CITIES (migrated 2026-08-30): Chamonix: Aiguille du Midi and Brévent both run to 1 November 2026. | Annecy: Markets Tuesday and Sunday mornings in the old town. | Grenoble: The cable car runs year-round, five minutes from the centre. | Oingt & the Pierres Dorées: An hour from Lyon, twenty minutes off the A6. | Vieux Lyon: Traboules are free to walk; the covered food halls are ten minutes away. | Chambéry: A natural lunch stop on the Annecy–Vercors drive.",
+    "CARD CAPTIONS — FOOD (migrated 2026-08-30): Tartiflette: Invented in the 1980s by the Reblochon makers — none the worse for it. | Raclette: Priced per person; the melting machine comes to the table. | Annecy Market Day: Tuesday, Friday and Sunday mornings in the old town. | Lyonnais Bouchon Cooking: Daniel et Denise and Café des Fédérations are the long-standing ones. | Savoyard Cheese Shops: Beaufort d'alpage is the summer-milk version, and the one to buy. | Les Halles Paul Bocuse: Closed Mondays; busiest and best on a Sunday morning.",
+    "CARD CAPTIONS — THINGS TO DO (migrated 2026-08-30): Tramway du Mont-Blanc: Runs to late September; after that the Montenvers train is the alternative. | Palais Idéal du Facteur Cheval: At Hauterives, about 1h15 from the Vercors — open daily year-round. | Grottes de Choranche: Guided, about an hour, 12°C inside; last tour mid-afternoon in October. | A Beaufort Cheese Cellar: Coopératives in Beaufort and Bourg-Saint-Maurice run free short visits. | Lyon's Traboules: Around forty are open to the public; the Vieux Lyon cluster is the easiest."
+  ],
+  "destination": "French Alps — Chamonix, Annecy & the Vercors",
+  "title": "Mont Blanc to the Markets: An Eastern France Road Trip",
+  "heroImage": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Massif_du_Mont-Blanc_depuis_l%27Aiguille_du_Floria.jpg/1920px-Massif_du_Mont-Blanc_depuis_l%27Aiguille_du_Floria.jpg",
+    "caption": "The Mont Blanc massif above the Chamonix valley",
+    "credit": "Wikimedia Commons"
+  },
+  "ideaImage": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Canal_%40_Old_Town_%40_Annecy_%2835501456545%29.jpg/1920px-Canal_%40_Old_Town_%40_Annecy_%2835501456545%29.jpg",
+    "caption": "The canals of old Annecy"
+  },
+  "theme": {
+    "bg": "#eef1f3",
+    "ink": "#17232b",
+    "dim": "#5b6c76",
+    "line": "rgba(23,35,43,.16)",
+    "panel": "#fbfcfd",
+    "deep": "#16262f",
+    "onDeep": "#e6eaec",
+    "accent": "#2f6f8f",
+    "mapLand": "#dee3e5",
+    "mapLine": "rgba(23,35,43,.22)"
+  },
+  "brief": "The Alps you already love, on the French side. A cable car to 3,842 m under Mont Blanc, a turquoise lake ringed by mountains at Annecy, limestone balcony roads carved into cliffs in the Vercors, and then a soft landing in the food country north of Lyon. Big scenery early, markets and comfort at the end.",
+  "vibe": "Mountains first, markets after",
+  "facts": {
+    "recommendedDurationDays": 14,
+    "flexibleRangeDays": "12-16",
+    "bestSeason": "Early October — the three main Chamonix lifts run to 1 November, but mid-altitude lifts have already closed",
+    "currency": "Euro (EUR)",
+    "language": "French; English is fine in Chamonix and Annecy, thinner in the Vercors",
+    "timezone": "Central European Time (UTC+2 until 25 October, then UTC+1)",
+    "arrivalAirport": "Geneva (GVA)",
+    "departureAirport": "Lyon Saint-Exupéry (LYS)",
+    "driving": "Right-hand traffic, superb roads, one-way rental across the border"
+  },
+  "sections": {
+    "primary": {
+      "heading": "Glacier, lake, limestone",
+      "intro": "The trip climbs high early and comes down slowly — a cable car under Mont Blanc, then a lake town, then cliff roads, then market country north of Lyon."
+    },
+    "nature": {
+      "heading": "Ice above, water below",
+      "intro": "Chamonix has the glaciers and the altitude. Annecy has the clearest lake in Europe. The Vercors has limestone cirques and roads blasted into vertical rock."
+    },
+    "cities": {
+      "heading": "Mountain towns that stay awake",
+      "intro": "These are year-round towns rather than resorts — Chamonix has hardware shops and supermarkets, Annecy has markets twice a week, and Lyon has the covered food halls."
+    },
+    "food": {
+      "heading": "Cheese, potatoes, repeat",
+      "intro": "Savoyard cooking is unapologetic: melted cheese over potatoes, cured ham, and village dairies selling Beaufort by the wheel. Then Lyon, which takes all of it very seriously."
+    },
+    "why": {
+      "heading": "The Alps with the season working for you",
+      "intro": "Everything that matters is still running in October, and the trip gets warmer and easier the further south it goes."
+    },
+    "thingsToDo": {
+      "heading": "Rack railways, caves and a postman's palace",
+      "intro": "The Alps do the big scenery on their own. These are the days out that give it some variety — a train to a glacier, a cave with a river in it, and one genuinely mad building."
+    }
+  },
+  "itinerary": [
+    {
+      "days": "1",
+      "location": "Geneva (arrival)",
+      "lat": 46.2381,
+      "lon": 6.1089,
+      "nights": 1,
+      "description": "Land in the evening, sleep near the airport, and be in the mountains within an hour of waking up."
+    },
+    {
+      "days": "2-4",
+      "location": "Chamonix",
+      "lat": 45.9237,
+      "lon": 6.8694,
+      "nights": 3,
+      "description": "The cable car to the Aiguille du Midi, the rack railway to the Mer de Glace, and valley-floor walks under the whole Mont Blanc massif."
+    },
+    {
+      "days": "5-7",
+      "location": "Annecy",
+      "lat": 45.8992,
+      "lon": 6.1294,
+      "nights": 3,
+      "description": "A canal-laced old town on a startlingly clear lake, the Tuesday and Sunday markets, and an easy lakeside cycle path."
+    },
+    {
+      "days": "8-10",
+      "location": "Vercors (Villard-de-Lans)",
+      "lat": 45.07,
+      "lon": 5.553,
+      "nights": 3,
+      "description": "Cliff-cut balcony roads, deep forest, quiet plateau hikes, and Grenoble's cable-car viewpoint 40 minutes away."
+    },
+    {
+      "days": "11-13",
+      "location": "Beaujolais & Lyon",
+      "lat": 45.764,
+      "lon": 4.8357,
+      "nights": 3,
+      "description": "Golden-stone villages, proper covered food markets, and the old town of Lyon — the food capital, done casually."
+    },
+    {
+      "days": "14",
+      "location": "Departure from Lyon",
+      "lat": 45.7256,
+      "lon": 5.0811,
+      "nights": 0,
+      "description": "Twenty minutes to the airport from Beaujolais, and home."
+    }
+  ],
+  "primaryHighlights": [
+    {
+      "title": "Chamonix & Mont Blanc",
+      "description": "A cable car straight up to 3,842 metres and a glacier train into the Mer de Glace — both running until 1 November.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/AiguilleDuMidiTM.jpg/1920px-AiguilleDuMidiTM.jpg",
+      "caption": "Aiguille du Midi summit station"
+    },
+    {
+      "title": "Annecy & Its Lake",
+      "description": "Maybe the prettiest small city in France — canals, painted houses, mountain backdrop, and one of the cleanest lakes in Europe.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Panorama_du_Lac_d%27Annecy_-_20120101.jpg/1920px-Panorama_du_Lac_d%27Annecy_-_20120101.jpg",
+      "caption": "Lake Annecy and the Alps"
+    },
+    {
+      "title": "The Vercors Balcony Roads",
+      "description": "Roads blasted into vertical limestone cliffs, tunnels with windows cut in the side — driving as the main event.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Combe_Laval%2C_Dr%C3%B4me.jpg/1920px-Combe_Laval%2C_Dr%C3%B4me.jpg",
+      "caption": "Road tunnel cut into Combe Laval"
+    }
+  ],
+  "natureHighlights": [
+    {
+      "title": "Mer de Glace",
+      "description": "France's largest glacier, reached by a red rack railway from the middle of Chamonix. No hiking required.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Panorama_of_Mer_de_Glace_from_Montenvers%2C_Chamonix%2C_Haute-Savoie.jpg/1920px-Panorama_of_Mer_de_Glace_from_Montenvers%2C_Chamonix%2C_Haute-Savoie.jpg",
+      "caption": "The Mer de Glace valley"
+    },
+    {
+      "title": "Lac Blanc",
+      "description": "The classic Mont Blanc reflection — a mountain lake with the whole massif standing in it.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Chamonix_-_Lac_Blanc_6.jpg/1920px-Chamonix_-_Lac_Blanc_6.jpg",
+      "caption": "Turquoise water of Lac Blanc"
+    },
+    {
+      "title": "Cirque de Saint-Même",
+      "description": "A horseshoe of cliffs with four waterfalls stacked one above the other, deep in the Chartreuse.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Falaises_Cirque_de_Saint-M%C3%AAme_en_Chartreuse_%28ao%C3%BBt_2024%29.JPG/1920px-Falaises_Cirque_de_Saint-M%C3%AAme_en_Chartreuse_%28ao%C3%BBt_2024%29.JPG",
+      "caption": "Limestone cliffs at Saint-Même"
+    },
+    {
+      "title": "The Vercors Plateau",
+      "description": "Rolling forest and meadow at 1,000 m, with gentle marked trails running right through it.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Villard-de-Lans%2C_Corren%C3%A7on-en-Vercors_et_le_massif_du_Vercors.jpg/1920px-Villard-de-Lans%2C_Corren%C3%A7on-en-Vercors_et_le_massif_du_Vercors.jpg",
+      "caption": "Aerial view of the Vercors massif"
+    },
+    {
+      "title": "Lake Annecy Shore Path",
+      "description": "An old railway line along the shore, water on one side and mountains on the other the whole way.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/GRP_Tour_du_Lac_d%27Annecy_at_Jardins_d%27Europe_Annecy.jpg/1920px-GRP_Tour_du_Lac_d%27Annecy_at_Jardins_d%27Europe_Annecy.jpg",
+      "caption": "Boats along the Annecy shoreline"
+    }
+  ],
+  "cityHighlights": [
+    {
+      "title": "Chamonix",
+      "description": "A real mountain town rather than a purpose-built resort — open all year, with shops, supermarkets and gear stores.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/H%C3%B4tel_de_ville_de_Chamonix-Mont-Blanc_%28juin_2022%29.JPG/1920px-H%C3%B4tel_de_ville_de_Chamonix-Mont-Blanc_%28juin_2022%29.JPG",
+      "caption": "Chamonix's Hôtel de Ville facade"
+    },
+    {
+      "title": "Annecy",
+      "description": "Canals, arcades and pastel houses, plus one of the best open-air markets in the Alps twice a week.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Canal_%40_Old_Town_%40_Annecy_%2834660327594%29.jpg/1920px-Canal_%40_Old_Town_%40_Annecy_%2834660327594%29.jpg",
+      "caption": "Canal in old town Annecy"
+    },
+    {
+      "title": "Grenoble",
+      "description": "A big city ringed by mountains, with a fort on the hill above it and glass bubbles going up.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Grenoble_panorama_-_Mont_Jalla.jpg/1920px-Grenoble_panorama_-_Mont_Jalla.jpg",
+      "caption": "Grenoble seen from Mont Jalla"
+    },
+    {
+      "title": "Oingt & the Pierres Dorées",
+      "description": "Beaujolais villages built entirely from golden limestone, on lanes made for a nice car.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Village_d%27Oingt_%28Sud_Beaujolais_-_Rh%C3%B4ne%29.jpg/1920px-Village_d%27Oingt_%28Sud_Beaujolais_-_Rh%C3%B4ne%29.jpg",
+      "caption": "Oingt village above the vineyards"
+    },
+    {
+      "title": "Vieux Lyon",
+      "description": "Renaissance streets in pale stone, with hidden passageways cut straight through the buildings.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Old_Town_%40_Lyon_%2836389408495%29.jpg/1920px-Old_Town_%40_Lyon_%2836389408495%29.jpg",
+      "caption": "A narrow street in Vieux Lyon"
+    },
+    {
+      "title": "Chambéry",
+      "description": "The old capital of Savoy — arcaded streets, a castle, and a fountain held up by four stone elephants, halfway between Annecy and the Vercors.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Toits_centre_ancien_Chamb%C3%A9ry_%282014%29.JPG/1920px-Toits_centre_ancien_Chamb%C3%A9ry_%282014%29.JPG",
+      "caption": "Rooftops of old Chambéry"
+    }
+  ],
+  "culinaryHighlights": [
+    {
+      "title": "Tartiflette",
+      "description": "Potatoes, bacon and a whole wheel of Reblochon baked into one dish. Savoie's answer to a cold afternoon.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Une_tartiflette_sortie_du_four.jpg/1920px-Une_tartiflette_sortie_du_four.jpg",
+      "caption": "Tartiflette fresh from the oven"
+    },
+    {
+      "title": "Raclette",
+      "description": "Melted cheese scraped straight onto potatoes and cured meat — the decadent, cheesy, flagship dish of the French alps.",
+      "image": "https://culturecheesemag.com/wp-content/uploads/2018/01/Culture_Raclette_03-e1664200388205.jpg",
+      "caption": "Raclette being scraped tableside"
+    },
+    {
+      "title": "Annecy Market Day",
+      "description": "Trestle tables down every lane of the old town, piled with mountain cheese, charcuterie, bread and produce.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/P1010336_Marche_d%27Annecy.JPG",
+      "caption": "Cheese stalls in old Annecy"
+    },
+    {
+      "title": "Lyonnais Bouchon Cooking",
+      "description": "Small, loud rooms on paper tablecloths doing quenelles, pork and gratins — the quenelle is a pike dumpling the size of your fist.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Quenelle_lyonnaise_de_brochet.JPG",
+      "caption": "A quenelle in cream sauce"
+    },
+    {
+      "title": "Savoyard Cheese Shops",
+      "description": "Beaufort, Abondance, Tomme and Reblochon, from village dairies all the way down the valley.",
+      "image": "https://api.cloudly.space/resize/cropratio/640/640/75/aHR0cHM6Ly9zdGF0aWMuYXBpZGFlLXRvdXJpc21lLmNvbS9maWxlc3RvcmUvb2JqZXRzLXRvdXJpc3RpcXVlcy9pbWFnZXMvMjQwLzYvMjU0Mjk3NDQuanBn/image.webp",
+      "caption": "A cheese-ageing cellar"
+    },
+    {
+      "title": "Les Halles Paul Bocuse",
+      "description": "Lyon's covered food market — fifty stalls of charcuterie, cheese, bread and pastry under one roof, with counters to eat at between them.",
+      "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/40/70/dd/les-halles-paul-bocuse.jpg",
+      "caption": "Inside Les Halles Paul Bocuse"
+    }
+  ],
+  "thingsToDo": [
+    {
+      "title": "Tramway du Mont-Blanc",
+      "description": "France's highest rack railway, grinding up from Saint-Gervais to 2,372 m at the Nid d'Aigle, right under the glaciers.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Saint-Gervais-les-Bains_Tramway_de_Mont-Blanc_%C3%A0_Nid_d%27Aigle_4.jpg/1920px-Saint-Gervais-les-Bains_Tramway_de_Mont-Blanc_%C3%A0_Nid_d%27Aigle_4.jpg",
+      "caption": "The Tramway du Mont-Blanc railcar"
+    },
+    {
+      "title": "Palais Idéal du Facteur Cheval",
+      "description": "A rural postman spent 33 years building a fantasy palace out of stones he picked up on his round. It is as strange as that sounds.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Palais_id%C3%A9al_du_facteur_Cheval_-_Juin_2023_-_15.jpg/1920px-Palais_id%C3%A9al_du_facteur_Cheval_-_Juin_2023_-_15.jpg",
+      "caption": "Facade of the Palais Idéal"
+    },
+    {
+      "title": "Grottes de Choranche",
+      "description": "A cave under the Vercors cliffs hung with thousands of thin, translucent straw stalactites, with an underground river running through.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Grotte_de_Choranche-2.jpg/1920px-Grotte_de_Choranche-2.jpg",
+      "caption": "Straw stalactites in Choranche cave"
+    },
+    {
+      "title": "A Beaufort Cheese Cellar",
+      "description": "Village dairies age Beaufort in vaulted cellars stacked with 40 kg wheels, and sell it over the counter at the door.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Cave_Beaufort_%28Savoie%29.jpg",
+      "caption": "Wheels of Beaufort on shelves"
+    },
+    {
+      "title": "Lyon's Traboules",
+      "description": "Covered passageways cut straight through the blocks of the old town, linking street to street through courtyards and spiral stairs. Most are unmarked and free to walk.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Traboule_8.jpg",
+      "caption": "A vaulted traboule passageway"
+    }
+  ],
+  "otherPerks": [
+    "The Aiguille du Midi runs to 1 November — 3,842 m by cable car, no walking involved",
+    "Mer de Glace by rack railway: a glacier at the end of a train ride",
+    "Annecy's lake is the cleanest in Europe, with a flat 33 km path around the shore",
+    "Beaufort and Reblochon straight from village dairies, at dairy prices",
+    "Balcony roads through the Vercors, with tunnels cut open to the drop",
+    "Markets twice a week in Annecy and covered food halls in Lyon",
+    "Autumn colour in the valleys while the peaks already have fresh snow",
+    "Everything is about an hour apart, so no day is spent in the car"
+  ]
+}
